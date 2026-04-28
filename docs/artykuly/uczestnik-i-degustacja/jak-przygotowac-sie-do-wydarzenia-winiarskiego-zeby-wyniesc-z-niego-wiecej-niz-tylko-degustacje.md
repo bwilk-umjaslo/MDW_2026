@@ -64,3 +64,9 @@ Tak, podstawowe pytania są często najlepszym początkiem rozmowy. Winiarz moż
 
 - Na co warto zwrócić uwagę przy ocenie:
   Czy ton jest przyjazny, prosty i nie brzmi jak instrukcja dla ekspertów.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.
+
+[Zgłoś uwagę do tego tekstu](https://docs.google.com/forms/d/e/1FAIpQLSeKmoZgxUTSd5f0UiTUQMYPZrpEiQtU7YAX8F7V9OcU2Oittg/viewform)

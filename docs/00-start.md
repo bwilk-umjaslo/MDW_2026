@@ -2,6 +2,7 @@
 title: "Start"
 sidebar_label: "Start"
 description: "Panel startowy roboczej dokumentacji materiałów Międzynarodowych Dni Wina w Jaśle 2026."
+slug: /
 ---
 
 # MDW 2026 - materiały do recenzji

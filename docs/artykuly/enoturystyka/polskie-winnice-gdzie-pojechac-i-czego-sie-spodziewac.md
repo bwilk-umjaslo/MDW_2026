@@ -64,3 +64,9 @@ Warto sprawdzić, czy dostępne są degustacje, rozmowy z producentami i możliw
 
 - Na co warto zwrócić uwagę przy ocenie:
   Czy tekst jest konkretny i czy nie obiecuje więcej, niż wynika z samego artykułu.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.
+
+[Zgłoś uwagę do tego tekstu](https://docs.google.com/forms/d/e/1FAIpQLSeKmoZgxUTSd5f0UiTUQMYPZrpEiQtU7YAX8F7V9OcU2Oittg/viewform)

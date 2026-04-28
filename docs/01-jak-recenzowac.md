@@ -12,6 +12,8 @@ Najważniejsze są uwagi merytoryczne. Prosimy przede wszystkim o sprawdzenie, c
 
 Warto zaznaczać konkretne fragmenty wymagające korekty. Najbardziej pomocne będą uwagi odnoszące się do danego zdania, akapitu, nazwy, faktu albo sformułowania.
 
+Uwagi najlepiej zgłaszać przez formularz recenzji: [Zgłoś uwagę do materiałów](https://docs.google.com/forms/d/e/1FAIpQLSeKmoZgxUTSd5f0UiTUQMYPZrpEiQtU7YAX8F7V9OcU2Oittg/viewform).
+
 Mile widziane są sugestie doprecyzowania, ale nie ma potrzeby redagowania całego tekstu. Wystarczy wskazać, co wymaga poprawy, uzupełnienia albo potwierdzenia.
 
 Szczególnie prosimy o sprawdzenie:

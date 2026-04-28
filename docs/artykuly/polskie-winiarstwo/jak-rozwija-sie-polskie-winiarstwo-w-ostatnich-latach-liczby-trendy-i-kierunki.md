@@ -116,3 +116,9 @@ Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pyta
 
 - Na co warto zwrócić uwagę przy ocenie:
   Czy poziom jest zrozumiały dla osoby początkującej i czy nie robi się zbyt techniczny.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.
+
+[Zgłoś uwagę do tego tekstu](https://docs.google.com/forms/d/e/1FAIpQLSeKmoZgxUTSd5f0UiTUQMYPZrpEiQtU7YAX8F7V9OcU2Oittg/viewform)

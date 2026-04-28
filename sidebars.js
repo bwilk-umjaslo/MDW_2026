@@ -2,9 +2,9 @@
 
 const sidebars = {
   mdwSidebar: [
-    '00-start',
-    '01-jak-recenzowac',
-    '02-mapa-materialow',
+    'start',
+    'jak-recenzowac',
+    'mapa-materialow',
     {
       type: 'category',
       label: 'Artykuły do recenzji',

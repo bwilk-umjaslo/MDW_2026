@@ -66,3 +66,9 @@ Najważniejsze jest to, że winiarskie Jasło powstało dzięki konsekwencji wie
 
 - Na co warto zwrócić uwagę przy ocenie:
   Czy rola tekstu jest jasna i czy nie dubluje zbyt mocno innych artykułów historycznych.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.
+
+[Zgłoś uwagę do tego tekstu](https://docs.google.com/forms/d/e/1FAIpQLSeKmoZgxUTSd5f0UiTUQMYPZrpEiQtU7YAX8F7V9OcU2Oittg/viewform)

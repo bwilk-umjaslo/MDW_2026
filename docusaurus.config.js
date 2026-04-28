@@ -7,7 +7,7 @@ const config = {
   url: 'https://bwilk-umjaslo.github.io',
   baseUrl: '/MDW_2026/',
 
-  organizationName: 'bwilk-umjaslo',
+  organizationName: 'Bartłomiej Wilk',
   projectName: 'MDW_2026',
 
   onBrokenLinks: 'throw',
