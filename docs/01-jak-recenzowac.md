@@ -1,17 +1,25 @@
 ---
-title: Jak recenzować
+title: "Jak recenzować"
+sidebar_label: "Jak recenzować"
+description: "Instrukcja recenzji merytorycznej materiałów Międzynarodowych Dni Wina w Jaśle 2026."
 ---
 
 # Jak recenzować materiały
 
-Podczas przeglądu warto zwracać uwagę przede wszystkim na zgodność merytoryczną, ton komunikacji oraz przydatność tekstów dla odbiorców Międzynarodowych Dni Wina w Jaśle.
+Materiały można czytać po kolei albo tematycznie. Najwygodniej zacząć od [mapy materiałów](./02-mapa-materialow.md), a potem przejść do wybranego działu artykułów.
 
-Najważniejsze obszary recenzji:
+Najważniejsze są uwagi merytoryczne. Prosimy przede wszystkim o sprawdzenie, czy treści są zgodne z realiami wydarzenia, polskiego winiarstwa i lokalnego kontekstu Jasła.
 
-- poprawność informacji o wydarzeniu, mieście, partnerach i winiarstwie,
-- zgodność treści z planowanym charakterem komunikacji MDW 2026,
-- jasność przekazu dla osób, które pierwszy raz stykają się z wydarzeniem,
-- miejsca wymagające doprecyzowania, skrócenia albo uzupełnienia,
-- pytania, które mogą pojawić się przed publikacją.
+Warto zaznaczać konkretne fragmenty wymagające korekty. Najbardziej pomocne będą uwagi odnoszące się do danego zdania, akapitu, nazwy, faktu albo sformułowania.
 
-Uwagi najlepiej zapisywać konkretnie: z odniesieniem do tytułu materiału, fragmentu tekstu i proponowanego kierunku poprawki.
+Mile widziane są sugestie doprecyzowania, ale nie ma potrzeby redagowania całego tekstu. Wystarczy wskazać, co wymaga poprawy, uzupełnienia albo potwierdzenia.
+
+Szczególnie prosimy o sprawdzenie:
+
+- poprawności terminologii winiarskiej,
+- zgodności tekstów z realiami polskiego winiarstwa,
+- proporcji między lokalnym kontekstem Jasła a ogólnopolskim charakterem wydarzenia,
+- poprawności nazw organizacji, wydarzeń, miejsc i osób,
+- tego, czy teksty nie obiecują więcej, niż można realnie pokazać podczas Międzynarodowych Dni Wina w Jaśle.
+
+Przy każdym artykule znajduje się sekcja **Komentarz dla recenzentki**, która wyjaśnia cel tekstu, odbiorcę, charakter materiału oraz elementy szczególnie warte sprawdzenia.

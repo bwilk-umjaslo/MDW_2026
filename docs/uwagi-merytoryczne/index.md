@@ -1,9 +1,16 @@
 ---
-title: Uwagi merytoryczne
+title: "Uwagi merytoryczne"
+sidebar_label: "Uwagi merytoryczne"
+description: "Sekcja pytań i kwestii do sprawdzenia merytorycznego."
 ---
 
 # Uwagi merytoryczne
 
-Miejsce na uwagi dotyczące faktów, nazw, dat, partnerów, kontekstu lokalnego oraz innych elementów wymagających potwierdzenia przed publikacją.
+Ta sekcja zbiera pytania i kwestie wymagające potwierdzenia przed publikacją materiałów. To dobre miejsce na sprawy, które powtarzają się w kilku artykułach albo dotyczą całej komunikacji.
 
-Wpisy w tej sekcji powinny być możliwie konkretne i przypisane do danego materiału lub obszaru tematycznego.
+## Materiały w tej sekcji
+
+- [Pytania do Pani Katarzyny](./pytania-do-pani-katarzyny.md)
+- [Kwestie do sprawdzenia](./kwestie-do-sprawdzenia.md)
+
+Najważniejsze są fakty lokalne, terminologia winiarska, nazwy organizacji oraz proporcja między kontekstem Jasła a ogólnopolskim charakterem wydarzenia.

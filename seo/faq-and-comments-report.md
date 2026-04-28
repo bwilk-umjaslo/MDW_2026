@@ -1,0 +1,53 @@
+# Raport FAQ i komentarzy autora
+
+Zakres: wszystkie pliki `.md` w katalogu `content/`.
+
+## Lista artykułów
+
+- `content/01-polskie-winiarstwo/czy-klimat-w-polsce-sprzyja-produkcji-wina-wyzwania-i-mozliwosci.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/01-polskie-winiarstwo/czy-polska-ma-swoj-styl-wina-jak-rozpoznawalne-sa-polskie-wina.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/01-polskie-winiarstwo/czy-polskie-wino-jest-dobre-jak-zmienila-sie-jego-jakosc-na-przestrzeni-lat.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/01-polskie-winiarstwo/dlaczego-male-winnice-dzialaja-inaczej-niz-duze-marki.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/01-polskie-winiarstwo/jakie-odmiany-winorosli-uprawia-sie-w-polsce-przeglad-najwazniejszych-szczepow.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/01-polskie-winiarstwo/jak-klimat-podkarpacia-wplywa-na-wina-z-regionu.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/01-polskie-winiarstwo/jak-rozwija-sie-polskie-winiarstwo-w-ostatnich-latach-liczby-trendy-i-kierunki.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/01-polskie-winiarstwo/jak-wyglada-przyszlosc-polskiego-winiarstwa-prognozy-i-kierunki-rozwoju.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/01-polskie-winiarstwo/jak-wyglada-rynek-wina-w-polsce-produkcja-sprzedaz-i-trendy.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/01-polskie-winiarstwo/jak-zmieniaja-sie-gusta-polakow-jesli-chodzi-o-wino.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/01-polskie-winiarstwo/male-winnice-w-polsce-jak-dzialaja-i-czym-roznia-sie-od-duzych-producentow.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/01-polskie-winiarstwo/odmiany-winorosli-uprawiane-w-okolicach-jasla-co-warto-wiedziec-jako-uczestnik-wydarzenia.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/01-polskie-winiarstwo/polskie-wino-co-warto-wiedziec-na-poczatek.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/01-polskie-winiarstwo/rocznik-ma-znaczenie-jak-pogoda-wplywa-na-wina-z-regionu.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/02-degustacja-i-uczestnik/czy-trzeba-znac-sie-na-winie-zeby-przyjsc-na-miedzynarodowych-dniach-wina-w-jasle.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/02-degustacja-i-uczestnik/jak-czytac-etykiety-win-i-co-naprawde-z-nich-wynika.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/02-degustacja-i-uczestnik/jak-odnalezc-sie-na-degustacji-jesli-robisz-to-pierwszy-raz.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/02-degustacja-i-uczestnik/jak-przygotowac-sie-do-wydarzenia-winiarskiego-zeby-wyniesc-z-niego-wiecej-niz-tylko-degustacje.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/02-degustacja-i-uczestnik/jak-rozmawiac-z-winiarzem-o-co-warto-zapytac-podczas-wydarzenia.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/02-degustacja-i-uczestnik/miedzynarodowe-dni-wina-w-jasle-oczami-uczestnika.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/02-degustacja-i-uczestnik/najczestsze-bledy-podczas-degustacji-i-dlaczego-nie-trzeba-sie-nimi-przejmowac.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/02-degustacja-i-uczestnik/nie-tylko-degustacja-o-spotkaniach-i-rozmowach-podczas-wydarzenia.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/02-degustacja-i-uczestnik/pierwszy-raz-na-miedzynarodowych-dniach-wina-w-jasle-co-warto-wiedziec-przed-przyjazdem.md` - uzupełniono FAQ; dodano komentarz autora; bez dodatkowych uwag.
+- `content/03-enoturystyka/dlaczego-warto-przyjechac-do-jasla-zeby-poznac-polskie-winnice-bez-objezdzania-calego-kraju.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: warto sprawdzić, czy poziom konkretu turystycznego jest wystarczający dla osoby planującej wyjazd.
+- `content/03-enoturystyka/enoturystyka-w-polsce-gdzie-jestesmy-dzis-na-tle-europy.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: warto sprawdzić, czy poziom konkretu turystycznego jest wystarczający dla osoby planującej wyjazd.
+- `content/03-enoturystyka/enoturystyka-w-polsce-jak-zwiedzac-winnice-i-planowac-wyjazdy.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: warto sprawdzić, czy poziom konkretu turystycznego jest wystarczający dla osoby planującej wyjazd.
+- `content/03-enoturystyka/gdzie-w-polsce-produkuje-sie-wino-najwazniejsze-regiony-winiarskie.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: warto sprawdzić, czy poziom konkretu turystycznego jest wystarczający dla osoby planującej wyjazd.
+- `content/03-enoturystyka/od-dolnego-slaska-po-podkarpacie-jak-roznorodne-sa-wina-prezentowane-podczas-wydarzenia.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: warto sprawdzić, czy poziom konkretu turystycznego jest wystarczający dla osoby planującej wyjazd.
+- `content/03-enoturystyka/polskie-winnice-gdzie-pojechac-i-czego-sie-spodziewac.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: warto sprawdzić, czy poziom konkretu turystycznego jest wystarczający dla osoby planującej wyjazd.
+- `content/03-enoturystyka/weekend-w-winnicy-w-polsce-jak-wyglada-i-ile-kosztuje.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: warto sprawdzić, czy poziom konkretu turystycznego jest wystarczający dla osoby planującej wyjazd.
+- `content/04-miedzynarodowe-dni-wina/czym-naprawde-sa-miedzynarodowe-dni-wina-w-jasle.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: tekst blisko komunikacji głównej wydarzenia, warto sprawdzić zgodność z aktualnym programem i tonem.
+- `content/04-miedzynarodowe-dni-wina/miedzynarodowe-dni-wina-w-jasle-jako-przekroj-polskiego-winiarstwa-czego-mozna-sie-spodziewac.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: tekst blisko komunikacji głównej wydarzenia, warto sprawdzić zgodność z aktualnym programem i tonem.
+- `content/04-miedzynarodowe-dni-wina/od-winnicy-do-wydarzenia-skad-bierze-sie-to-doswiadczenie.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: tekst blisko komunikacji głównej wydarzenia, warto sprawdzić zgodność z aktualnym programem i tonem.
+- `content/04-miedzynarodowe-dni-wina/polskie-winnice-w-jednym-miejscu-co-wyroznia-miedzynarodowe-dni-wina-w-jasle-na-tle-innych-wydarzen.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: tekst blisko komunikacji głównej wydarzenia, warto sprawdzić zgodność z aktualnym programem i tonem.
+- `content/05-historia-i-srodowisko/co-zmienilo-jasielskie-stowarzyszenie-winiarzy-vinum-pro-cultura-w-regionie.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: kilka tekstów pełni podobną rolę kontekstową, warto przy recenzji pilnować, czy nie powtarzają tych samych akcentów historycznych.
+- `content/05-historia-i-srodowisko/czego-juz-nie-ma-jak-wygladaly-pierwsze-edycje-wydarzenia.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: kilka tekstów pełni podobną rolę kontekstową, warto przy recenzji pilnować, czy nie powtarzają tych samych akcentów historycznych.
+- `content/05-historia-i-srodowisko/dlaczego-winiarze-w-jasle-dzialaja-razem.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: kilka tekstów pełni podobną rolę kontekstową, warto przy recenzji pilnować, czy nie powtarzają tych samych akcentów historycznych.
+- `content/05-historia-i-srodowisko/dwadziescia-edycji-miedzynarodowych-dni-wina-w-jasle-jak-roslo-to-wydarzenie.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: kilka tekstów pełni podobną rolę kontekstową, warto przy recenzji pilnować, czy nie powtarzają tych samych akcentów historycznych.
+- `content/05-historia-i-srodowisko/jak-jasielskie-stowarzyszenie-winiarzy-vinum-pro-cultura-buduje-winiarskie-jaslo.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: kilka tekstów pełni podobną rolę kontekstową, warto przy recenzji pilnować, czy nie powtarzają tych samych akcentów historycznych.
+- `content/05-historia-i-srodowisko/jak-powstaje-wino-w-regionie-jasielskim-od-uprawy-do-butelki.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: kilka tekstów pełni podobną rolę kontekstową, warto przy recenzji pilnować, czy nie powtarzają tych samych akcentów historycznych.
+- `content/05-historia-i-srodowisko/jak-takie-wydarzenie-zmienia-miasto-na-przykladzie-jasla.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: kilka tekstów pełni podobną rolę kontekstową, warto przy recenzji pilnować, czy nie powtarzają tych samych akcentów historycznych.
+- `content/05-historia-i-srodowisko/jak-wyglada-jaslo-w-trakcie-miedzynarodowych-dni-wina.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: kilka tekstów pełni podobną rolę kontekstową, warto przy recenzji pilnować, czy nie powtarzają tych samych akcentów historycznych.
+- `content/05-historia-i-srodowisko/jak-zaczely-sie-miedzynarodowe-dni-wina-w-jasle-historia-opowiedziana-przez-ludzi-i-archiwa.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: kilka tekstów pełni podobną rolę kontekstową, warto przy recenzji pilnować, czy nie powtarzają tych samych akcentów historycznych.
+- `content/05-historia-i-srodowisko/kim-jest-polski-winiarz-od-pasji-do-profesjonalnej-produkcji.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: kilka tekstów pełni podobną rolę kontekstową, warto przy recenzji pilnować, czy nie powtarzają tych samych akcentów historycznych.
+- `content/05-historia-i-srodowisko/miedzynarodowe-dni-wina-w-jasle-kiedys-i-dzis-co-sie-zmienilo.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: kilka tekstów pełni podobną rolę kontekstową, warto przy recenzji pilnować, czy nie powtarzają tych samych akcentów historycznych.
+- `content/05-historia-i-srodowisko/winiarze-miedzynarodowych-dni-wina-w-jasle-kogo-tu-spotkasz.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: kilka tekstów pełni podobną rolę kontekstową, warto przy recenzji pilnować, czy nie powtarzają tych samych akcentów historycznych.
+- `content/05-historia-i-srodowisko/winiarze-z-calej-polski-na-miedzynarodowych-dniach-wina-w-jasle-przeglad-regionow-i-stylow.md` - uzupełniono FAQ; dodano komentarz autora; uwaga: kilka tekstów pełni podobną rolę kontekstową, warto przy recenzji pilnować, czy nie powtarzają tych samych akcentów historycznych.

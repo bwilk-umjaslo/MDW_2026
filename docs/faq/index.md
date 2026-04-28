@@ -1,9 +1,18 @@
 ---
-title: FAQ
+title: "FAQ do doprecyzowania"
+sidebar_label: "FAQ do doprecyzowania"
+description: "Roboczy zestaw pytań i odpowiedzi do recenzji merytorycznej."
 ---
 
-# FAQ
+# FAQ do doprecyzowania
 
-Miejsce na pytania i odpowiedzi dotyczące Międzynarodowych Dni Wina w Jaśle 2026.
+Ta sekcja zbiera robocze pytania i odpowiedzi, które mogą zostać wykorzystane w komunikacji wydarzenia. Część informacji wymaga potwierdzenia organizacyjnego przed publikacją.
 
-Sekcja może posłużyć do przygotowania treści informacyjnych dla uczestników, mediów i partnerów wydarzenia.
+## Obszary FAQ
+
+- [Bilety i wejście](./bilety-i-wejscie.md)
+- [Degustacje](./degustacje.md)
+- [Wystawcy i winnice](./wystawcy-i-winnice.md)
+- [Dojazd i noclegi](./dojazd-i-noclegi.md)
+
+Najważniejsze do sprawdzenia są informacje zależne od programu, zasad wejścia, listy wystawców i logistyki wydarzenia.
