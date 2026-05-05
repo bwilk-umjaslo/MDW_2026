@@ -1,0 +1,3197 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:wp="http://wordpress.org/export/1.2/">
+    <channel>
+        <title>MDW 2026 Import</title>
+        <link>https://example.com</link>
+        <description>MDW 2026 Articles</description>
+        <wp:wxr_version>1.2</wp:wxr_version>
+        <wp:base_site_url>https://example.com</wp:base_site_url>
+        <wp:base_blog_url>https://example.com</wp:base_blog_url>
+        <item>
+            <title>Dlaczego warto przyjechać do Jasła, żeby poznać polskie winnice bez objeżdżania całego kraju</title>
+            <link>https://example.com/dlaczego-warto-przyjechac-do-jasla-zeby-poznac-polskie-winnice-bez-objezdzania-calego-kraju/</link>
+            <pubDate>pon., 18 maj 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=1</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł mówi o enoturystyce?
+
+Pokazuje, że wyjazd związany z winem nie musi oznaczać dalekiej podróży ani bardzo specjalistycznego planu. Winnice są tu przedstawione jako miejsca spotkania, nauki i spokojnego odkrywania regionu.
+
+### Dla kogo taki wyjazd ma najwięcej sensu?
+
+Dla osób, które chcą połączyć degustację z poznaniem miejsca i ludzi stojących za winem. To dobry wybór zarówno dla początkujących, jak i dla tych, którzy chcą porównać różne regiony bez pośpiechu.
+
+### Jaką rolę ma Jasło w takim planowaniu?
+
+Jasło może być wygodnym punktem wejścia w polskie winiarstwo, bo podczas wydarzenia Międzynarodowe Dni Wina w Jaśle w jednym miejscu spotyka się wielu producentów. To ułatwia porównanie stylów bez układania długiej trasy po kraju.
+
+### Na co zwrócić uwagę przy wyborze winnicy lub wydarzenia?
+
+Warto sprawdzić, czy dostępne są degustacje, rozmowy z producentami i możliwość poznania miejsca, a nie tylko samej sprzedaży wina. Najlepsze doświadczenie daje połączenie kieliszka, opowieści i realnego kontekstu regionu.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>1</wp:post_id>
+            <wp:post_name>dlaczego-warto-przyjechac-do-jasla-zeby-poznac-polskie-winnice-bez-objezdzania-calego-kraju</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Dlaczego warto przyjechać do Jasła,... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Dlaczego warto przyjechać do Jasła,... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Enoturystyka w Polsce - gdzie jesteśmy dziś na tle Europy</title>
+            <link>https://example.com/enoturystyka-w-polsce-gdzie-jestesmy-dzis-na-tle-europy/</link>
+            <pubDate>śr., 13 maj 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=2</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł mówi o enoturystyce?
+
+Pokazuje, że wyjazd związany z winem nie musi oznaczać dalekiej podróży ani bardzo specjalistycznego planu. Winnice są tu przedstawione jako miejsca spotkania, nauki i spokojnego odkrywania regionu.
+
+### Dla kogo taki wyjazd ma najwięcej sensu?
+
+Dla osób, które chcą połączyć degustację z poznaniem miejsca i ludzi stojących za winem. To dobry wybór zarówno dla początkujących, jak i dla tych, którzy chcą porównać różne regiony bez pośpiechu.
+
+### Jaką rolę ma Jasło w takim planowaniu?
+
+Jasło może być wygodnym punktem wejścia w polskie winiarstwo, bo podczas wydarzenia Międzynarodowe Dni Wina w Jaśle w jednym miejscu spotyka się wielu producentów. To ułatwia porównanie stylów bez układania długiej trasy po kraju.
+
+### Na co zwrócić uwagę przy wyborze winnicy lub wydarzenia?
+
+Warto sprawdzić, czy dostępne są degustacje, rozmowy z producentami i możliwość poznania miejsca, a nie tylko samej sprzedaży wina. Najlepsze doświadczenie daje połączenie kieliszka, opowieści i realnego kontekstu regionu.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>2</wp:post_id>
+            <wp:post_name>enoturystyka-w-polsce-gdzie-jestesmy-dzis-na-tle-europy</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="enoturystyka">Enoturystyka</category>
+            <category domain="post_tag" nicename="enoturystyka">Enoturystyka</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <category domain="post_tag" nicename="enoturystyka">enoturystyka</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Enoturystyka w Polsce - gdzie jeste... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Enoturystyka w Polsce - gdzie jeste... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Enoturystyka w Polsce - jak zwiedzać winnice i planować wyjazdy</title>
+            <link>https://example.com/enoturystyka-w-polsce-jak-zwiedzac-winnice-i-planowac-wyjazdy/</link>
+            <pubDate>pt., 22 maj 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=3</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł mówi o enoturystyce?
+
+Pokazuje, że wyjazd związany z winem nie musi oznaczać dalekiej podróży ani bardzo specjalistycznego planu. Winnice są tu przedstawione jako miejsca spotkania, nauki i spokojnego odkrywania regionu.
+
+### Dla kogo taki wyjazd ma najwięcej sensu?
+
+Dla osób, które chcą połączyć degustację z poznaniem miejsca i ludzi stojących za winem. To dobry wybór zarówno dla początkujących, jak i dla tych, którzy chcą porównać różne regiony bez pośpiechu.
+
+### Jaką rolę ma Jasło w takim planowaniu?
+
+Jasło może być wygodnym punktem wejścia w polskie winiarstwo, bo podczas wydarzenia Międzynarodowe Dni Wina w Jaśle w jednym miejscu spotyka się wielu producentów. To ułatwia porównanie stylów bez układania długiej trasy po kraju.
+
+### Na co zwrócić uwagę przy wyborze winnicy lub wydarzenia?
+
+Warto sprawdzić, czy dostępne są degustacje, rozmowy z producentami i możliwość poznania miejsca, a nie tylko samej sprzedaży wina. Najlepsze doświadczenie daje połączenie kieliszka, opowieści i realnego kontekstu regionu.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>3</wp:post_id>
+            <wp:post_name>enoturystyka-w-polsce-jak-zwiedzac-winnice-i-planowac-wyjazdy</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="enoturystyka">Enoturystyka</category>
+            <category domain="post_tag" nicename="enoturystyka">Enoturystyka</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <category domain="post_tag" nicename="enoturystyka">enoturystyka</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Enoturystyka w Polsce - jak zwiedza... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Enoturystyka w Polsce - jak zwiedza... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Gdzie w Polsce produkuje się wino - najważniejsze regiony winiarskie</title>
+            <link>https://example.com/gdzie-w-polsce-produkuje-sie-wino-najwazniejsze-regiony-winiarskie/</link>
+            <pubDate>pon., 25 maj 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=4</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł mówi o enoturystyce?
+
+Pokazuje, że wyjazd związany z winem nie musi oznaczać dalekiej podróży ani bardzo specjalistycznego planu. Winnice są tu przedstawione jako miejsca spotkania, nauki i spokojnego odkrywania regionu.
+
+### Dla kogo taki wyjazd ma najwięcej sensu?
+
+Dla osób, które chcą połączyć degustację z poznaniem miejsca i ludzi stojących za winem. To dobry wybór zarówno dla początkujących, jak i dla tych, którzy chcą porównać różne regiony bez pośpiechu.
+
+### Jaką rolę ma Jasło w takim planowaniu?
+
+Jasło może być wygodnym punktem wejścia w polskie winiarstwo, bo podczas wydarzenia Międzynarodowe Dni Wina w Jaśle w jednym miejscu spotyka się wielu producentów. To ułatwia porównanie stylów bez układania długiej trasy po kraju.
+
+### Na co zwrócić uwagę przy wyborze winnicy lub wydarzenia?
+
+Warto sprawdzić, czy dostępne są degustacje, rozmowy z producentami i możliwość poznania miejsca, a nie tylko samej sprzedaży wina. Najlepsze doświadczenie daje połączenie kieliszka, opowieści i realnego kontekstu regionu.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>4</wp:post_id>
+            <wp:post_name>gdzie-w-polsce-produkuje-sie-wino-najwazniejsze-regiony-winiarskie</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="enoturystyka">Enoturystyka</category>
+            <category domain="post_tag" nicename="enoturystyka">Enoturystyka</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Gdzie w Polsce produkuje się wino -... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[polskie wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Gdzie w Polsce produkuje się wino -... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[polskie wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Od Dolnego Śląska po Podkarpacie - jak różnorodne są wina prezentowane podczas wydarzenia</title>
+            <link>https://example.com/od-dolnego-slaska-po-podkarpacie-jak-roznorodne-sa-wina-prezentowane-podczas-wydarzenia/</link>
+            <pubDate>śr., 20 maj 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=5</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł mówi o enoturystyce?
+
+Pokazuje, że wyjazd związany z winem nie musi oznaczać dalekiej podróży ani bardzo specjalistycznego planu. Winnice są tu przedstawione jako miejsca spotkania, nauki i spokojnego odkrywania regionu.
+
+### Dla kogo taki wyjazd ma najwięcej sensu?
+
+Dla osób, które chcą połączyć degustację z poznaniem miejsca i ludzi stojących za winem. To dobry wybór zarówno dla początkujących, jak i dla tych, którzy chcą porównać różne regiony bez pośpiechu.
+
+### Jaką rolę ma Jasło w takim planowaniu?
+
+Jasło może być wygodnym punktem wejścia w polskie winiarstwo, bo podczas wydarzenia Międzynarodowe Dni Wina w Jaśle w jednym miejscu spotyka się wielu producentów. To ułatwia porównanie stylów bez układania długiej trasy po kraju.
+
+### Na co zwrócić uwagę przy wyborze winnicy lub wydarzenia?
+
+Warto sprawdzić, czy dostępne są degustacje, rozmowy z producentami i możliwość poznania miejsca, a nie tylko samej sprzedaży wina. Najlepsze doświadczenie daje połączenie kieliszka, opowieści i realnego kontekstu regionu.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>5</wp:post_id>
+            <wp:post_name>od-dolnego-slaska-po-podkarpacie-jak-roznorodne-sa-wina-prezentowane-podczas-wydarzenia</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="enoturystyka">Enoturystyka</category>
+            <category domain="post_tag" nicename="enoturystyka">Enoturystyka</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Od Dolnego Śląska po Podkarpacie - ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Od Dolnego Śląska po Podkarpacie - ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Polskie winnice - gdzie pojechać i czego się spodziewać</title>
+            <link>https://example.com/polskie-winnice-gdzie-pojechac-i-czego-sie-spodziewac/</link>
+            <pubDate>pt., 29 maj 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=6</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł mówi o enoturystyce?
+
+Pokazuje, że wyjazd związany z winem nie musi oznaczać dalekiej podróży ani bardzo specjalistycznego planu. Winnice są tu przedstawione jako miejsca spotkania, nauki i spokojnego odkrywania regionu.
+
+### Dla kogo taki wyjazd ma najwięcej sensu?
+
+Dla osób, które chcą połączyć degustację z poznaniem miejsca i ludzi stojących za winem. To dobry wybór zarówno dla początkujących, jak i dla tych, którzy chcą porównać różne regiony bez pośpiechu.
+
+### Jaką rolę ma Jasło w takim planowaniu?
+
+Jasło może być wygodnym punktem wejścia w polskie winiarstwo, bo podczas wydarzenia Międzynarodowe Dni Wina w Jaśle w jednym miejscu spotyka się wielu producentów. To ułatwia porównanie stylów bez układania długiej trasy po kraju.
+
+### Na co zwrócić uwagę przy wyborze winnicy lub wydarzenia?
+
+Warto sprawdzić, czy dostępne są degustacje, rozmowy z producentami i możliwość poznania miejsca, a nie tylko samej sprzedaży wina. Najlepsze doświadczenie daje połączenie kieliszka, opowieści i realnego kontekstu regionu.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>6</wp:post_id>
+            <wp:post_name>polskie-winnice-gdzie-pojechac-i-czego-sie-spodziewac</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Polskie winnice - gdzie pojechać i ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Polskie winnice - gdzie pojechać i ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Weekend w winnicy w Polsce - jak wygląda i ile kosztuje</title>
+            <link>https://example.com/weekend-w-winnicy-w-polsce-jak-wyglada-i-ile-kosztuje/</link>
+            <pubDate>pon., 01 cze 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=7</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł mówi o enoturystyce?
+
+Pokazuje, że wyjazd związany z winem nie musi oznaczać dalekiej podróży ani bardzo specjalistycznego planu. Winnice są tu przedstawione jako miejsca spotkania, nauki i spokojnego odkrywania regionu.
+
+### Dla kogo taki wyjazd ma najwięcej sensu?
+
+Dla osób, które chcą połączyć degustację z poznaniem miejsca i ludzi stojących za winem. To dobry wybór zarówno dla początkujących, jak i dla tych, którzy chcą porównać różne regiony bez pośpiechu.
+
+### Jaką rolę ma Jasło w takim planowaniu?
+
+Jasło może być wygodnym punktem wejścia w polskie winiarstwo, bo podczas wydarzenia Międzynarodowe Dni Wina w Jaśle w jednym miejscu spotyka się wielu producentów. To ułatwia porównanie stylów bez układania długiej trasy po kraju.
+
+### Na co zwrócić uwagę przy wyborze winnicy lub wydarzenia?
+
+Warto sprawdzić, czy dostępne są degustacje, rozmowy z producentami i możliwość poznania miejsca, a nie tylko samej sprzedaży wina. Najlepsze doświadczenie daje połączenie kieliszka, opowieści i realnego kontekstu regionu.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>7</wp:post_id>
+            <wp:post_name>weekend-w-winnicy-w-polsce-jak-wyglada-i-ile-kosztuje</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="enoturystyka">Enoturystyka</category>
+            <category domain="post_tag" nicename="enoturystyka">Enoturystyka</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Weekend w winnicy w Polsce - jak wy... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Weekend w winnicy w Polsce - jak wy... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Co zmieniło Jasielskie Stowarzyszenie Winiarzy Vinum pro cultura w regionie</title>
+            <link>https://example.com/co-zmienilo-jasielskie-stowarzyszenie-winiarzy-vinum-pro-cultura-w-regionie/</link>
+            <pubDate>śr., 27 maj 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=8</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czego dotyczy ten artykuł?
+
+Artykuł pokazuje wybrany fragment historii, środowiska lub zaplecza winiarskiego Jasła. Pomaga zobaczyć, jak pojedyncza opowieść łączy się z szerszym obrazem polskiego winiarstwa.
+
+### Dlaczego ten kontekst jest ważny dla uczestnika?
+
+Uczestnik lepiej rozumie, że wydarzenie nie powstało w próżni. Za degustacją stoją ludzie, organizacje, lokalne decyzje i lata pracy, które wpływają na dzisiejszy charakter spotkania.
+
+### Czy historia wydarzenia ma znaczenie dzisiaj?
+
+Tak, bo pozwala zobaczyć, dlaczego Międzynarodowe Dni Wina w Jaśle mają własny rytm i rozpoznawalność. Przeszłość tłumaczy skalę wydarzenia, jego atmosferę i rolę Jasła na winiarskiej mapie Polski.
+
+### Co warto zapamiętać po lekturze?
+
+Najważniejsze jest to, że winiarskie Jasło powstało dzięki konsekwencji wielu osób, a nie jednemu działaniu. Ten tekst ma pomóc czytelnikowi zobaczyć zaplecze wydarzenia, które na miejscu często jest niewidoczne.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>8</wp:post_id>
+            <wp:post_name>co-zmienilo-jasielskie-stowarzyszenie-winiarzy-vinum-pro-cultura-w-regionie</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Co zmieniło Jasielskie Stowarzyszen... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Co zmieniło Jasielskie Stowarzyszen... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Czego już nie ma - jak wyglądały pierwsze edycje wydarzenia</title>
+            <link>https://example.com/czego-juz-nie-ma-jak-wygladaly-pierwsze-edycje-wydarzenia/</link>
+            <pubDate>pt., 05 cze 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=9</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czego dotyczy ten artykuł?
+
+Artykuł pokazuje wybrany fragment historii, środowiska lub zaplecza winiarskiego Jasła. Pomaga zobaczyć, jak pojedyncza opowieść łączy się z szerszym obrazem polskiego winiarstwa.
+
+### Dlaczego ten kontekst jest ważny dla uczestnika?
+
+Uczestnik lepiej rozumie, że wydarzenie nie powstało w próżni. Za degustacją stoją ludzie, organizacje, lokalne decyzje i lata pracy, które wpływają na dzisiejszy charakter spotkania.
+
+### Czy historia wydarzenia ma znaczenie dzisiaj?
+
+Tak, bo pozwala zobaczyć, dlaczego Międzynarodowe Dni Wina w Jaśle mają własny rytm i rozpoznawalność. Przeszłość tłumaczy skalę wydarzenia, jego atmosferę i rolę Jasła na winiarskiej mapie Polski.
+
+### Co warto zapamiętać po lekturze?
+
+Najważniejsze jest to, że winiarskie Jasło powstało dzięki konsekwencji wielu osób, a nie jednemu działaniu. Ten tekst ma pomóc czytelnikowi zobaczyć zaplecze wydarzenia, które na miejscu często jest niewidoczne.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>9</wp:post_id>
+            <wp:post_name>czego-juz-nie-ma-jak-wygladaly-pierwsze-edycje-wydarzenia</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Czego już nie ma - jak wyglądały pi... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Czego już nie ma - jak wyglądały pi... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Dlaczego winiarze w Jaśle działają razem</title>
+            <link>https://example.com/dlaczego-winiarze-w-jasle-dzialaja-razem/</link>
+            <pubDate>pon., 08 cze 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=10</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czego dotyczy ten artykuł?
+
+Artykuł pokazuje wybrany fragment historii, środowiska lub zaplecza winiarskiego Jasła. Pomaga zobaczyć, jak pojedyncza opowieść łączy się z szerszym obrazem polskiego winiarstwa.
+
+### Dlaczego ten kontekst jest ważny dla uczestnika?
+
+Uczestnik lepiej rozumie, że wydarzenie nie powstało w próżni. Za degustacją stoją ludzie, organizacje, lokalne decyzje i lata pracy, które wpływają na dzisiejszy charakter spotkania.
+
+### Czy historia wydarzenia ma znaczenie dzisiaj?
+
+Tak, bo pozwala zobaczyć, dlaczego Międzynarodowe Dni Wina w Jaśle mają własny rytm i rozpoznawalność. Przeszłość tłumaczy skalę wydarzenia, jego atmosferę i rolę Jasła na winiarskiej mapie Polski.
+
+### Co warto zapamiętać po lekturze?
+
+Najważniejsze jest to, że winiarskie Jasło powstało dzięki konsekwencji wielu osób, a nie jednemu działaniu. Ten tekst ma pomóc czytelnikowi zobaczyć zaplecze wydarzenia, które na miejscu często jest niewidoczne.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>10</wp:post_id>
+            <wp:post_name>dlaczego-winiarze-w-jasle-dzialaja-razem</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Dlaczego winiarze w Jaśle działają ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Dlaczego winiarze w Jaśle działają ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Dwadzieścia edycji Międzynarodowych Dni Wina w Jaśle - jak rosło to wydarzenie</title>
+            <link>https://example.com/dwadziescia-edycji-miedzynarodowych-dni-wina-w-jasle-jak-roslo-to-wydarzenie/</link>
+            <pubDate>śr., 03 cze 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=11</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czego dotyczy ten artykuł?
+
+Artykuł pokazuje wybrany fragment historii, środowiska lub zaplecza winiarskiego Jasła. Pomaga zobaczyć, jak pojedyncza opowieść łączy się z szerszym obrazem polskiego winiarstwa.
+
+### Dlaczego ten kontekst jest ważny dla uczestnika?
+
+Uczestnik lepiej rozumie, że wydarzenie nie powstało w próżni. Za degustacją stoją ludzie, organizacje, lokalne decyzje i lata pracy, które wpływają na dzisiejszy charakter spotkania.
+
+### Czy historia wydarzenia ma znaczenie dzisiaj?
+
+Tak, bo pozwala zobaczyć, dlaczego Międzynarodowe Dni Wina w Jaśle mają własny rytm i rozpoznawalność. Przeszłość tłumaczy skalę wydarzenia, jego atmosferę i rolę Jasła na winiarskiej mapie Polski.
+
+### Co warto zapamiętać po lekturze?
+
+Najważniejsze jest to, że winiarskie Jasło powstało dzięki konsekwencji wielu osób, a nie jednemu działaniu. Ten tekst ma pomóc czytelnikowi zobaczyć zaplecze wydarzenia, które na miejscu często jest niewidoczne.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>11</wp:post_id>
+            <wp:post_name>dwadziescia-edycji-miedzynarodowych-dni-wina-w-jasle-jak-roslo-to-wydarzenie</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="wydarzenie">Wydarzenie</category>
+            <category domain="post_tag" nicename="wydarzenie">Wydarzenie</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Dwadzieścia edycji Międzynarodowych... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Dwadzieścia edycji Międzynarodowych... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jak Jasielskie Stowarzyszenie Winiarzy Vinum pro cultura buduje winiarskie Jasło</title>
+            <link>https://example.com/jak-jasielskie-stowarzyszenie-winiarzy-vinum-pro-cultura-buduje-winiarskie-jaslo/</link>
+            <pubDate>pt., 12 cze 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=12</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czego dotyczy ten artykuł?
+
+Artykuł pokazuje wybrany fragment historii, środowiska lub zaplecza winiarskiego Jasła. Pomaga zobaczyć, jak pojedyncza opowieść łączy się z szerszym obrazem polskiego winiarstwa.
+
+### Dlaczego ten kontekst jest ważny dla uczestnika?
+
+Uczestnik lepiej rozumie, że wydarzenie nie powstało w próżni. Za degustacją stoją ludzie, organizacje, lokalne decyzje i lata pracy, które wpływają na dzisiejszy charakter spotkania.
+
+### Czy historia wydarzenia ma znaczenie dzisiaj?
+
+Tak, bo pozwala zobaczyć, dlaczego Międzynarodowe Dni Wina w Jaśle mają własny rytm i rozpoznawalność. Przeszłość tłumaczy skalę wydarzenia, jego atmosferę i rolę Jasła na winiarskiej mapie Polski.
+
+### Co warto zapamiętać po lekturze?
+
+Najważniejsze jest to, że winiarskie Jasło powstało dzięki konsekwencji wielu osób, a nie jednemu działaniu. Ten tekst ma pomóc czytelnikowi zobaczyć zaplecze wydarzenia, które na miejscu często jest niewidoczne.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>12</wp:post_id>
+            <wp:post_name>jak-jasielskie-stowarzyszenie-winiarzy-vinum-pro-cultura-buduje-winiarskie-jaslo</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak Jasielskie Stowarzyszenie Winia... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak Jasielskie Stowarzyszenie Winia... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jak powstaje wino w regionie jasielskim - od uprawy do butelki</title>
+            <link>https://example.com/jak-powstaje-wino-w-regionie-jasielskim-od-uprawy-do-butelki/</link>
+            <pubDate>pon., 15 cze 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=13</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czego dotyczy ten artykuł?
+
+Artykuł pokazuje wybrany fragment historii, środowiska lub zaplecza winiarskiego Jasła. Pomaga zobaczyć, jak pojedyncza opowieść łączy się z szerszym obrazem polskiego winiarstwa.
+
+### Dlaczego ten kontekst jest ważny dla uczestnika?
+
+Uczestnik lepiej rozumie, że wydarzenie nie powstało w próżni. Za degustacją stoją ludzie, organizacje, lokalne decyzje i lata pracy, które wpływają na dzisiejszy charakter spotkania.
+
+### Czy historia wydarzenia ma znaczenie dzisiaj?
+
+Tak, bo pozwala zobaczyć, dlaczego Międzynarodowe Dni Wina w Jaśle mają własny rytm i rozpoznawalność. Przeszłość tłumaczy skalę wydarzenia, jego atmosferę i rolę Jasła na winiarskiej mapie Polski.
+
+### Co warto zapamiętać po lekturze?
+
+Najważniejsze jest to, że winiarskie Jasło powstało dzięki konsekwencji wielu osób, a nie jednemu działaniu. Ten tekst ma pomóc czytelnikowi zobaczyć zaplecze wydarzenia, które na miejscu często jest niewidoczne.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>13</wp:post_id>
+            <wp:post_name>jak-powstaje-wino-w-regionie-jasielskim-od-uprawy-do-butelki</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak powstaje wino w regionie jasiel... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[polskie wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak powstaje wino w regionie jasiel... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[polskie wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jak takie wydarzenie zmienia miasto na przykładzie Jasła</title>
+            <link>https://example.com/jak-takie-wydarzenie-zmienia-miasto-na-przykladzie-jasla/</link>
+            <pubDate>śr., 10 cze 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=14</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czego dotyczy ten artykuł?
+
+Artykuł pokazuje wybrany fragment historii, środowiska lub zaplecza winiarskiego Jasła. Pomaga zobaczyć, jak pojedyncza opowieść łączy się z szerszym obrazem polskiego winiarstwa.
+
+### Dlaczego ten kontekst jest ważny dla uczestnika?
+
+Uczestnik lepiej rozumie, że wydarzenie nie powstało w próżni. Za degustacją stoją ludzie, organizacje, lokalne decyzje i lata pracy, które wpływają na dzisiejszy charakter spotkania.
+
+### Czy historia wydarzenia ma znaczenie dzisiaj?
+
+Tak, bo pozwala zobaczyć, dlaczego Międzynarodowe Dni Wina w Jaśle mają własny rytm i rozpoznawalność. Przeszłość tłumaczy skalę wydarzenia, jego atmosferę i rolę Jasła na winiarskiej mapie Polski.
+
+### Co warto zapamiętać po lekturze?
+
+Najważniejsze jest to, że winiarskie Jasło powstało dzięki konsekwencji wielu osób, a nie jednemu działaniu. Ten tekst ma pomóc czytelnikowi zobaczyć zaplecze wydarzenia, które na miejscu często jest niewidoczne.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>14</wp:post_id>
+            <wp:post_name>jak-takie-wydarzenie-zmienia-miasto-na-przykladzie-jasla</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="wydarzenie">Wydarzenie</category>
+            <category domain="post_tag" nicename="wydarzenie">Wydarzenie</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak takie wydarzenie zmienia miasto... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak takie wydarzenie zmienia miasto... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jak wygląda Jasło w trakcie Międzynarodowych Dni Wina</title>
+            <link>https://example.com/jak-wyglada-jaslo-w-trakcie-miedzynarodowych-dni-wina/</link>
+            <pubDate>pt., 19 cze 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=15</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czego dotyczy ten artykuł?
+
+Artykuł pokazuje wybrany fragment historii, środowiska lub zaplecza winiarskiego Jasła. Pomaga zobaczyć, jak pojedyncza opowieść łączy się z szerszym obrazem polskiego winiarstwa.
+
+### Dlaczego ten kontekst jest ważny dla uczestnika?
+
+Uczestnik lepiej rozumie, że wydarzenie nie powstało w próżni. Za degustacją stoją ludzie, organizacje, lokalne decyzje i lata pracy, które wpływają na dzisiejszy charakter spotkania.
+
+### Czy historia wydarzenia ma znaczenie dzisiaj?
+
+Tak, bo pozwala zobaczyć, dlaczego Międzynarodowe Dni Wina w Jaśle mają własny rytm i rozpoznawalność. Przeszłość tłumaczy skalę wydarzenia, jego atmosferę i rolę Jasła na winiarskiej mapie Polski.
+
+### Co warto zapamiętać po lekturze?
+
+Najważniejsze jest to, że winiarskie Jasło powstało dzięki konsekwencji wielu osób, a nie jednemu działaniu. Ten tekst ma pomóc czytelnikowi zobaczyć zaplecze wydarzenia, które na miejscu często jest niewidoczne.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>15</wp:post_id>
+            <wp:post_name>jak-wyglada-jaslo-w-trakcie-miedzynarodowych-dni-wina</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak wygląda Jasło w trakcie Międzyn... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak wygląda Jasło w trakcie Międzyn... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jak zaczęły się Międzynarodowe Dni Wina w Jaśle - historia opowiedziana przez ludzi i archiwa</title>
+            <link>https://example.com/jak-zaczely-sie-miedzynarodowe-dni-wina-w-jasle-historia-opowiedziana-przez-ludzi-i-archiwa/</link>
+            <pubDate>pon., 22 cze 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=16</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czego dotyczy ten artykuł?
+
+Artykuł pokazuje wybrany fragment historii, środowiska lub zaplecza winiarskiego Jasła. Pomaga zobaczyć, jak pojedyncza opowieść łączy się z szerszym obrazem polskiego winiarstwa.
+
+### Dlaczego ten kontekst jest ważny dla uczestnika?
+
+Uczestnik lepiej rozumie, że wydarzenie nie powstało w próżni. Za degustacją stoją ludzie, organizacje, lokalne decyzje i lata pracy, które wpływają na dzisiejszy charakter spotkania.
+
+### Czy historia wydarzenia ma znaczenie dzisiaj?
+
+Tak, bo pozwala zobaczyć, dlaczego Międzynarodowe Dni Wina w Jaśle mają własny rytm i rozpoznawalność. Przeszłość tłumaczy skalę wydarzenia, jego atmosferę i rolę Jasła na winiarskiej mapie Polski.
+
+### Co warto zapamiętać po lekturze?
+
+Najważniejsze jest to, że winiarskie Jasło powstało dzięki konsekwencji wielu osób, a nie jednemu działaniu. Ten tekst ma pomóc czytelnikowi zobaczyć zaplecze wydarzenia, które na miejscu często jest niewidoczne.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>16</wp:post_id>
+            <wp:post_name>jak-zaczely-sie-miedzynarodowe-dni-wina-w-jasle-historia-opowiedziana-przez-ludzi-i-archiwa</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak zaczęły się Międzynarodowe Dni ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak zaczęły się Międzynarodowe Dni ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Kim jest polski winiarz - od pasji do profesjonalnej produkcji</title>
+            <link>https://example.com/kim-jest-polski-winiarz-od-pasji-do-profesjonalnej-produkcji/</link>
+            <pubDate>śr., 17 cze 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=17</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czego dotyczy ten artykuł?
+
+Artykuł pokazuje wybrany fragment historii, środowiska lub zaplecza winiarskiego Jasła. Pomaga zobaczyć, jak pojedyncza opowieść łączy się z szerszym obrazem polskiego winiarstwa.
+
+### Dlaczego ten kontekst jest ważny dla uczestnika?
+
+Uczestnik lepiej rozumie, że wydarzenie nie powstało w próżni. Za degustacją stoją ludzie, organizacje, lokalne decyzje i lata pracy, które wpływają na dzisiejszy charakter spotkania.
+
+### Czy historia wydarzenia ma znaczenie dzisiaj?
+
+Tak, bo pozwala zobaczyć, dlaczego Międzynarodowe Dni Wina w Jaśle mają własny rytm i rozpoznawalność. Przeszłość tłumaczy skalę wydarzenia, jego atmosferę i rolę Jasła na winiarskiej mapie Polski.
+
+### Co warto zapamiętać po lekturze?
+
+Najważniejsze jest to, że winiarskie Jasło powstało dzięki konsekwencji wielu osób, a nie jednemu działaniu. Ten tekst ma pomóc czytelnikowi zobaczyć zaplecze wydarzenia, które na miejscu często jest niewidoczne.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>17</wp:post_id>
+            <wp:post_name>kim-jest-polski-winiarz-od-pasji-do-profesjonalnej-produkcji</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Kim jest polski winiarz - od pasji ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Kim jest polski winiarz - od pasji ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Międzynarodowe Dni Wina w Jaśle kiedyś i dziś - co się zmieniło</title>
+            <link>https://example.com/miedzynarodowe-dni-wina-w-jasle-kiedys-i-dzis-co-sie-zmienilo/</link>
+            <pubDate>pt., 26 cze 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=18</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czego dotyczy ten artykuł?
+
+Artykuł pokazuje wybrany fragment historii, środowiska lub zaplecza winiarskiego Jasła. Pomaga zobaczyć, jak pojedyncza opowieść łączy się z szerszym obrazem polskiego winiarstwa.
+
+### Dlaczego ten kontekst jest ważny dla uczestnika?
+
+Uczestnik lepiej rozumie, że wydarzenie nie powstało w próżni. Za degustacją stoją ludzie, organizacje, lokalne decyzje i lata pracy, które wpływają na dzisiejszy charakter spotkania.
+
+### Czy historia wydarzenia ma znaczenie dzisiaj?
+
+Tak, bo pozwala zobaczyć, dlaczego Międzynarodowe Dni Wina w Jaśle mają własny rytm i rozpoznawalność. Przeszłość tłumaczy skalę wydarzenia, jego atmosferę i rolę Jasła na winiarskiej mapie Polski.
+
+### Co warto zapamiętać po lekturze?
+
+Najważniejsze jest to, że winiarskie Jasło powstało dzięki konsekwencji wielu osób, a nie jednemu działaniu. Ten tekst ma pomóc czytelnikowi zobaczyć zaplecze wydarzenia, które na miejscu często jest niewidoczne.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>18</wp:post_id>
+            <wp:post_name>miedzynarodowe-dni-wina-w-jasle-kiedys-i-dzis-co-sie-zmienilo</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Międzynarodowe Dni Wina w Jaśle kie... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Międzynarodowe Dni Wina w Jaśle kie... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Winiarze Międzynarodowych Dni Wina w Jaśle - kogo tu spotkasz</title>
+            <link>https://example.com/winiarze-miedzynarodowych-dni-wina-w-jasle-kogo-tu-spotkasz/</link>
+            <pubDate>pon., 29 cze 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=19</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czego dotyczy ten artykuł?
+
+Artykuł pokazuje wybrany fragment historii, środowiska lub zaplecza winiarskiego Jasła. Pomaga zobaczyć, jak pojedyncza opowieść łączy się z szerszym obrazem polskiego winiarstwa.
+
+### Dlaczego ten kontekst jest ważny dla uczestnika?
+
+Uczestnik lepiej rozumie, że wydarzenie nie powstało w próżni. Za degustacją stoją ludzie, organizacje, lokalne decyzje i lata pracy, które wpływają na dzisiejszy charakter spotkania.
+
+### Czy historia wydarzenia ma znaczenie dzisiaj?
+
+Tak, bo pozwala zobaczyć, dlaczego Międzynarodowe Dni Wina w Jaśle mają własny rytm i rozpoznawalność. Przeszłość tłumaczy skalę wydarzenia, jego atmosferę i rolę Jasła na winiarskiej mapie Polski.
+
+### Co warto zapamiętać po lekturze?
+
+Najważniejsze jest to, że winiarskie Jasło powstało dzięki konsekwencji wielu osób, a nie jednemu działaniu. Ten tekst ma pomóc czytelnikowi zobaczyć zaplecze wydarzenia, które na miejscu często jest niewidoczne.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>19</wp:post_id>
+            <wp:post_name>winiarze-miedzynarodowych-dni-wina-w-jasle-kogo-tu-spotkasz</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Winiarze Międzynarodowych Dni Wina ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Winiarze Międzynarodowych Dni Wina ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Winiarze z całej Polski na Międzynarodowych Dniach Wina w Jaśle - przegląd regionów i stylów</title>
+            <link>https://example.com/winiarze-z-calej-polski-na-miedzynarodowych-dniach-wina-w-jasle-przeglad-regionow-i-stylow/</link>
+            <pubDate>śr., 24 cze 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=20</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czego dotyczy ten artykuł?
+
+Artykuł pokazuje wybrany fragment historii, środowiska lub zaplecza winiarskiego Jasła. Pomaga zobaczyć, jak pojedyncza opowieść łączy się z szerszym obrazem polskiego winiarstwa.
+
+### Dlaczego ten kontekst jest ważny dla uczestnika?
+
+Uczestnik lepiej rozumie, że wydarzenie nie powstało w próżni. Za degustacją stoją ludzie, organizacje, lokalne decyzje i lata pracy, które wpływają na dzisiejszy charakter spotkania.
+
+### Czy historia wydarzenia ma znaczenie dzisiaj?
+
+Tak, bo pozwala zobaczyć, dlaczego Międzynarodowe Dni Wina w Jaśle mają własny rytm i rozpoznawalność. Przeszłość tłumaczy skalę wydarzenia, jego atmosferę i rolę Jasła na winiarskiej mapie Polski.
+
+### Co warto zapamiętać po lekturze?
+
+Najważniejsze jest to, że winiarskie Jasło powstało dzięki konsekwencji wielu osób, a nie jednemu działaniu. Ten tekst ma pomóc czytelnikowi zobaczyć zaplecze wydarzenia, które na miejscu często jest niewidoczne.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>20</wp:post_id>
+            <wp:post_name>winiarze-z-calej-polski-na-miedzynarodowych-dniach-wina-w-jasle-przeglad-regionow-i-stylow</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="jaslo i region">Jaslo i region</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Winiarze z całej Polski na Międzyna... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Winiarze z całej Polski na Międzyna... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Czy klimat w Polsce sprzyja produkcji wina - wyzwania i możliwości</title>
+            <link>https://example.com/czy-klimat-w-polsce-sprzyja-produkcji-wina-wyzwania-i-mozliwosci/</link>
+            <pubDate>pt., 03 lip 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=21</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł pomaga zrozumieć o polskim winie?
+
+Tekst pokazuje, że polskie wino nie jest jedną prostą kategorią. Ważne są klimat, skala produkcji, decyzje winiarzy i to, jak szybko zmienia się jakość oraz styl win.
+
+### Dlaczego warto znać ten kontekst przed degustacją?
+
+Dzięki temu łatwiej rozumieć, skąd biorą się różnice między winami z poszczególnych winnic. Uczestnik nie musi znać terminologii, ale zyskuje punkt zaczepienia do rozmowy i porównywania kieliszków.
+
+### Czy ta wiedza przydaje się podczas wydarzenia w Jaśle?
+
+Tak, bo wydarzenie Międzynarodowe Dni Wina w Jaśle pozwala zobaczyć ten temat w praktyce, nie tylko w opisie. Można porównać style, zapytać producentów o ich decyzje i sprawdzić, jak teoria przekłada się na konkretne wino.
+
+### Od czego zacząć, jeśli temat jest nowy?
+
+Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pytań. Ten artykuł ma dać podstawy, a nie zamykać temat w jednej definicji.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>21</wp:post_id>
+            <wp:post_name>czy-klimat-w-polsce-sprzyja-produkcji-wina-wyzwania-i-mozliwosci</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Czy klimat w Polsce sprzyja produkc... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Czy klimat w Polsce sprzyja produkc... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Czy Polska ma swój styl wina - jak rozpoznawalne są polskie wina</title>
+            <link>https://example.com/czy-polska-ma-swoj-styl-wina-jak-rozpoznawalne-sa-polskie-wina/</link>
+            <pubDate>pon., 06 lip 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=22</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł pomaga zrozumieć o polskim winie?
+
+Tekst pokazuje, że polskie wino nie jest jedną prostą kategorią. Ważne są klimat, skala produkcji, decyzje winiarzy i to, jak szybko zmienia się jakość oraz styl win.
+
+### Dlaczego warto znać ten kontekst przed degustacją?
+
+Dzięki temu łatwiej rozumieć, skąd biorą się różnice między winami z poszczególnych winnic. Uczestnik nie musi znać terminologii, ale zyskuje punkt zaczepienia do rozmowy i porównywania kieliszków.
+
+### Czy ta wiedza przydaje się podczas wydarzenia w Jaśle?
+
+Tak, bo wydarzenie Międzynarodowe Dni Wina w Jaśle pozwala zobaczyć ten temat w praktyce, nie tylko w opisie. Można porównać style, zapytać producentów o ich decyzje i sprawdzić, jak teoria przekłada się na konkretne wino.
+
+### Od czego zacząć, jeśli temat jest nowy?
+
+Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pytań. Ten artykuł ma dać podstawy, a nie zamykać temat w jednej definicji.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>22</wp:post_id>
+            <wp:post_name>czy-polska-ma-swoj-styl-wina-jak-rozpoznawalne-sa-polskie-wina</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Czy Polska ma swój styl wina - jak ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Czy Polska ma swój styl wina - jak ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Czy polskie wino jest dobre - jak zmieniła się jego jakość na przestrzeni lat</title>
+            <link>https://example.com/czy-polskie-wino-jest-dobre-jak-zmienila-sie-jego-jakosc-na-przestrzeni-lat/</link>
+            <pubDate>śr., 01 lip 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=23</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł pomaga zrozumieć o polskim winie?
+
+Tekst pokazuje, że polskie wino nie jest jedną prostą kategorią. Ważne są klimat, skala produkcji, decyzje winiarzy i to, jak szybko zmienia się jakość oraz styl win.
+
+### Dlaczego warto znać ten kontekst przed degustacją?
+
+Dzięki temu łatwiej rozumieć, skąd biorą się różnice między winami z poszczególnych winnic. Uczestnik nie musi znać terminologii, ale zyskuje punkt zaczepienia do rozmowy i porównywania kieliszków.
+
+### Czy ta wiedza przydaje się podczas wydarzenia w Jaśle?
+
+Tak, bo wydarzenie Międzynarodowe Dni Wina w Jaśle pozwala zobaczyć ten temat w praktyce, nie tylko w opisie. Można porównać style, zapytać producentów o ich decyzje i sprawdzić, jak teoria przekłada się na konkretne wino.
+
+### Od czego zacząć, jeśli temat jest nowy?
+
+Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pytań. Ten artykuł ma dać podstawy, a nie zamykać temat w jednej definicji.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>23</wp:post_id>
+            <wp:post_name>czy-polskie-wino-jest-dobre-jak-zmienila-sie-jego-jakosc-na-przestrzeni-lat</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Czy polskie wino jest dobre - jak z... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[polskie wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Czy polskie wino jest dobre - jak z... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[polskie wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Dlaczego małe winnice działają inaczej niż duże marki</title>
+            <link>https://example.com/dlaczego-male-winnice-dzialaja-inaczej-niz-duze-marki/</link>
+            <pubDate>pt., 10 lip 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=24</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł pomaga zrozumieć o polskim winie?
+
+Tekst pokazuje, że polskie wino nie jest jedną prostą kategorią. Ważne są klimat, skala produkcji, decyzje winiarzy i to, jak szybko zmienia się jakość oraz styl win.
+
+### Dlaczego warto znać ten kontekst przed degustacją?
+
+Dzięki temu łatwiej rozumieć, skąd biorą się różnice między winami z poszczególnych winnic. Uczestnik nie musi znać terminologii, ale zyskuje punkt zaczepienia do rozmowy i porównywania kieliszków.
+
+### Czy ta wiedza przydaje się podczas wydarzenia w Jaśle?
+
+Tak, bo wydarzenie Międzynarodowe Dni Wina w Jaśle pozwala zobaczyć ten temat w praktyce, nie tylko w opisie. Można porównać style, zapytać producentów o ich decyzje i sprawdzić, jak teoria przekłada się na konkretne wino.
+
+### Od czego zacząć, jeśli temat jest nowy?
+
+Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pytań. Ten artykuł ma dać podstawy, a nie zamykać temat w jednej definicji.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>24</wp:post_id>
+            <wp:post_name>dlaczego-male-winnice-dzialaja-inaczej-niz-duze-marki</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Dlaczego małe winnice działają inac... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Dlaczego małe winnice działają inac... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jakie odmiany winorośli uprawia się w Polsce - przegląd najważniejszych szczepów</title>
+            <link>https://example.com/jakie-odmiany-winorosli-uprawia-sie-w-polsce-przeglad-najwazniejszych-szczepow/</link>
+            <pubDate>pon., 13 lip 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=25</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł pomaga zrozumieć o polskim winie?
+
+Tekst pokazuje, że polskie wino nie jest jedną prostą kategorią. Ważne są klimat, skala produkcji, decyzje winiarzy i to, jak szybko zmienia się jakość oraz styl win.
+
+### Dlaczego warto znać ten kontekst przed degustacją?
+
+Dzięki temu łatwiej rozumieć, skąd biorą się różnice między winami z poszczególnych winnic. Uczestnik nie musi znać terminologii, ale zyskuje punkt zaczepienia do rozmowy i porównywania kieliszków.
+
+### Czy ta wiedza przydaje się podczas wydarzenia w Jaśle?
+
+Tak, bo wydarzenie Międzynarodowe Dni Wina w Jaśle pozwala zobaczyć ten temat w praktyce, nie tylko w opisie. Można porównać style, zapytać producentów o ich decyzje i sprawdzić, jak teoria przekłada się na konkretne wino.
+
+### Od czego zacząć, jeśli temat jest nowy?
+
+Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pytań. Ten artykuł ma dać podstawy, a nie zamykać temat w jednej definicji.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>25</wp:post_id>
+            <wp:post_name>jakie-odmiany-winorosli-uprawia-sie-w-polsce-przeglad-najwazniejszych-szczepow</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jakie odmiany winorośli uprawia się... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[polskie wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jakie odmiany winorośli uprawia się... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[polskie wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jak klimat Podkarpacia wpływa na wina z regionu</title>
+            <link>https://example.com/jak-klimat-podkarpacia-wplywa-na-wina-z-regionu/</link>
+            <pubDate>śr., 08 lip 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=26</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł pomaga zrozumieć o polskim winie?
+
+Tekst pokazuje, że polskie wino nie jest jedną prostą kategorią. Ważne są klimat, skala produkcji, decyzje winiarzy i to, jak szybko zmienia się jakość oraz styl win.
+
+### Dlaczego warto znać ten kontekst przed degustacją?
+
+Dzięki temu łatwiej rozumieć, skąd biorą się różnice między winami z poszczególnych winnic. Uczestnik nie musi znać terminologii, ale zyskuje punkt zaczepienia do rozmowy i porównywania kieliszków.
+
+### Czy ta wiedza przydaje się podczas wydarzenia w Jaśle?
+
+Tak, bo wydarzenie Międzynarodowe Dni Wina w Jaśle pozwala zobaczyć ten temat w praktyce, nie tylko w opisie. Można porównać style, zapytać producentów o ich decyzje i sprawdzić, jak teoria przekłada się na konkretne wino.
+
+### Od czego zacząć, jeśli temat jest nowy?
+
+Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pytań. Ten artykuł ma dać podstawy, a nie zamykać temat w jednej definicji.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>26</wp:post_id>
+            <wp:post_name>jak-klimat-podkarpacia-wplywa-na-wina-z-regionu</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak klimat Podkarpacia wpływa na wi... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak klimat Podkarpacia wpływa na wi... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jak rozwija się polskie winiarstwo w ostatnich latach - liczby, trendy i kierunki</title>
+            <link>https://example.com/jak-rozwija-sie-polskie-winiarstwo-w-ostatnich-latach-liczby-trendy-i-kierunki/</link>
+            <pubDate>pt., 17 lip 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=27</guid>
+            <description></description>
+            <content:encoded><![CDATA[## Liczby, które pokazują skalę zmiany
+
+Najprościej zacząć od faktów. Jeszcze na początku lat 2010 liczba zarejestrowanych winnic w Polsce była liczona w dziesiątkach. Dziś mówimy o kilkuset producentach, a areał upraw rośnie z roku na rok. To nie jest chwilowy trend, tylko systematyczny wzrost, który utrzymuje się od ponad dekady.
+
+Co istotne, zmienia się nie tylko liczba winnic, ale też ich charakter. Coraz więcej z nich działa w sposób uporządkowany - z rejestracją, kontrolą jakości, świadomą produkcją i sprzedażą. To oznacza przejście od hobby do pełnoprawnej działalności rolniczo-produkcyjnej.
+
+## Od ilości do jakości
+
+Pierwsza faza rozwoju polskiego winiarstwa to był moment „sprawdzania, czy się da”. Druga - ta, w której jesteśmy teraz - to etap świadomego budowania jakości.
+
+Winiarze inwestują w wiedzę, technologie, konsultacje enologiczne. Coraz częściej pojawiają się osoby z doświadczeniem zdobytym za granicą, które wracają i wdrażają sprawdzone rozwiązania w polskich warunkach. Efekt? Wina są bardziej powtarzalne, stabilne i po prostu lepsze.
+
+To widać również w konkursach. Polskie wina coraz częściej zdobywają nagrody - nie jako egzotyka, ale jako pełnoprawni uczestnicy rywalizacji.
+
+## Nowe pokolenie winiarzy
+
+Zmienia się też profil ludzi, którzy stoją za winem. Obok pionierów, którzy zaczynali kilkadziesiąt lat temu, pojawia się nowe pokolenie - często z innym podejściem.
+
+To osoby, które:
+
+- myślą o winie jednocześnie jako o produkcie i doświadczeniu
+- rozumieją marketing, komunikację i sprzedaż
+- budują relacje z odbiorcą, nie tylko sprzedają butelki
+
+Dla nich winnica to nie tylko miejsce produkcji, ale też przestrzeń spotkań, degustacji, wydarzeń. I tu zaczyna się kolejny ważny wątek.
+
+## Enoturystyka jako naturalny kierunek rozwoju
+
+Wraz z rozwojem winnic rośnie enoturystyka. Coraz więcej miejsc zaprasza nie tylko na zakup wina, ale na doświadczenie - degustacje, spacery po winnicy, warsztaty.
+
+To zmienia sposób, w jaki odbieramy wino. Przestaje być tylko produktem, a zaczyna być historią, miejscem, relacją z człowiekiem, który je tworzy.
+
+I to właśnie ten element - spotkanie z winiarzem - staje się jednym z najmocniejszych punktów całego sektora.
+
+## Klimat - wyzwanie, które staje się atutem
+
+Nie da się mówić o polskim winie bez klimatu. To wciąż jeden z największych czynników ryzyka - krótszy sezon, przymrozki, zmienność pogody.
+
+Ale jednocześnie to właśnie klimat buduje charakter tych win. Wyższa kwasowość, świeżość, lekkość - to cechy, które coraz częściej są postrzegane jako zaleta, a nie ograniczenie.
+
+Do tego dochodzi zmiana klimatu, która - niezależnie od szerszych konsekwencji - sprawia, że warunki do uprawy winorośli w Polsce stają się bardziej stabilne niż jeszcze kilkanaście lat temu.
+
+## Rynek, który dopiero się układa
+
+Mimo dynamicznego rozwoju, polskie winiarstwo wciąż jest na etapie budowania rynku.
+
+Produkcja jest niewielka w porównaniu do krajów o długiej tradycji winiarskiej, dystrybucja bywa ograniczona, a przepisy - choć poprawiane - nadal stanowią wyzwanie.
+
+Ale jednocześnie rośnie świadomość konsumentów. Coraz więcej osób szuka lokalnych produktów, chce wiedzieć skąd pochodzi wino i kto je zrobił. To zmienia zasady gry.
+
+## W jakim kierunku to idzie
+
+Patrząc na ostatnie lata, widać kilka wyraźnych kierunków:
+
+- dalszy wzrost liczby winnic, ale bardziej kontrolowany
+- nacisk na jakość i powtarzalność
+- rozwój enoturystyki
+- budowanie rozpoznawalności polskich win
+- coraz większa obecność w konkursach i mediach branżowych
+
+To nie jest już etap „czy się uda”. To etap „jak to zrobić dobrze i na większą skalę”.
+
+## Dlaczego to widać najlepiej w jednym miejscu
+
+To wszystko - liczby, ludzie, style, podejścia - najłatwiej zobaczyć w jednym miejscu. Nie w tabelach i raportach, tylko w rozmowach, kieliszkach i konkretnych winach.
+
+Właśnie dlatego wydarzenia takie jak Międzynarodowe Dni Wina w Jaśle mają znaczenie większe niż tylko festiwalowe. To moment, w którym można zobaczyć, gdzie naprawdę jesteśmy jako kraj winiarski.
+
+Nie w teorii. W praktyce.
+
+## FAQ
+
+### Co ten artykuł pomaga zrozumieć o polskim winie?
+
+Tekst pokazuje, że polskie wino nie jest jedną prostą kategorią. Ważne są klimat, skala produkcji, decyzje winiarzy i to, jak szybko zmienia się jakość oraz styl win.
+
+### Dlaczego warto znać ten kontekst przed degustacją?
+
+Dzięki temu łatwiej rozumieć, skąd biorą się różnice między winami z poszczególnych winnic. Uczestnik nie musi znać terminologii, ale zyskuje punkt zaczepienia do rozmowy i porównywania kieliszków.
+
+### Czy ta wiedza przydaje się podczas wydarzenia w Jaśle?
+
+Tak, bo wydarzenie Międzynarodowe Dni Wina w Jaśle pozwala zobaczyć ten temat w praktyce, nie tylko w opisie. Można porównać style, zapytać producentów o ich decyzje i sprawdzić, jak teoria przekłada się na konkretne wino.
+
+### Od czego zacząć, jeśli temat jest nowy?
+
+Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pytań. Ten artykuł ma dać podstawy, a nie zamykać temat w jednej definicji.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>27</wp:post_id>
+            <wp:post_name>jak-rozwija-sie-polskie-winiarstwo-w-ostatnich-latach-liczby-trendy-i-kierunki</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak rozwija się polskie winiarstwo ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak rozwija się polskie winiarstwo ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jak wygląda przyszłość polskiego winiarstwa - prognozy i kierunki rozwoju</title>
+            <link>https://example.com/jak-wyglada-przyszlosc-polskiego-winiarstwa-prognozy-i-kierunki-rozwoju/</link>
+            <pubDate>pon., 20 lip 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=28</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł pomaga zrozumieć o polskim winie?
+
+Tekst pokazuje, że polskie wino nie jest jedną prostą kategorią. Ważne są klimat, skala produkcji, decyzje winiarzy i to, jak szybko zmienia się jakość oraz styl win.
+
+### Dlaczego warto znać ten kontekst przed degustacją?
+
+Dzięki temu łatwiej rozumieć, skąd biorą się różnice między winami z poszczególnych winnic. Uczestnik nie musi znać terminologii, ale zyskuje punkt zaczepienia do rozmowy i porównywania kieliszków.
+
+### Czy ta wiedza przydaje się podczas wydarzenia w Jaśle?
+
+Tak, bo wydarzenie Międzynarodowe Dni Wina w Jaśle pozwala zobaczyć ten temat w praktyce, nie tylko w opisie. Można porównać style, zapytać producentów o ich decyzje i sprawdzić, jak teoria przekłada się na konkretne wino.
+
+### Od czego zacząć, jeśli temat jest nowy?
+
+Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pytań. Ten artykuł ma dać podstawy, a nie zamykać temat w jednej definicji.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>28</wp:post_id>
+            <wp:post_name>jak-wyglada-przyszlosc-polskiego-winiarstwa-prognozy-i-kierunki-rozwoju</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak wygląda przyszłość polskiego wi... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak wygląda przyszłość polskiego wi... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jak wygląda rynek wina w Polsce - produkcja, sprzedaż i trendy</title>
+            <link>https://example.com/jak-wyglada-rynek-wina-w-polsce-produkcja-sprzedaz-i-trendy/</link>
+            <pubDate>śr., 15 lip 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=29</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł pomaga zrozumieć o polskim winie?
+
+Tekst pokazuje, że polskie wino nie jest jedną prostą kategorią. Ważne są klimat, skala produkcji, decyzje winiarzy i to, jak szybko zmienia się jakość oraz styl win.
+
+### Dlaczego warto znać ten kontekst przed degustacją?
+
+Dzięki temu łatwiej rozumieć, skąd biorą się różnice między winami z poszczególnych winnic. Uczestnik nie musi znać terminologii, ale zyskuje punkt zaczepienia do rozmowy i porównywania kieliszków.
+
+### Czy ta wiedza przydaje się podczas wydarzenia w Jaśle?
+
+Tak, bo wydarzenie Międzynarodowe Dni Wina w Jaśle pozwala zobaczyć ten temat w praktyce, nie tylko w opisie. Można porównać style, zapytać producentów o ich decyzje i sprawdzić, jak teoria przekłada się na konkretne wino.
+
+### Od czego zacząć, jeśli temat jest nowy?
+
+Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pytań. Ten artykuł ma dać podstawy, a nie zamykać temat w jednej definicji.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>29</wp:post_id>
+            <wp:post_name>jak-wyglada-rynek-wina-w-polsce-produkcja-sprzedaz-i-trendy</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak wygląda rynek wina w Polsce - p... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak wygląda rynek wina w Polsce - p... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jak zmieniają się gusta Polaków jeśli chodzi o wino</title>
+            <link>https://example.com/jak-zmieniaja-sie-gusta-polakow-jesli-chodzi-o-wino/</link>
+            <pubDate>pt., 24 lip 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=30</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł pomaga zrozumieć o polskim winie?
+
+Tekst pokazuje, że polskie wino nie jest jedną prostą kategorią. Ważne są klimat, skala produkcji, decyzje winiarzy i to, jak szybko zmienia się jakość oraz styl win.
+
+### Dlaczego warto znać ten kontekst przed degustacją?
+
+Dzięki temu łatwiej rozumieć, skąd biorą się różnice między winami z poszczególnych winnic. Uczestnik nie musi znać terminologii, ale zyskuje punkt zaczepienia do rozmowy i porównywania kieliszków.
+
+### Czy ta wiedza przydaje się podczas wydarzenia w Jaśle?
+
+Tak, bo wydarzenie Międzynarodowe Dni Wina w Jaśle pozwala zobaczyć ten temat w praktyce, nie tylko w opisie. Można porównać style, zapytać producentów o ich decyzje i sprawdzić, jak teoria przekłada się na konkretne wino.
+
+### Od czego zacząć, jeśli temat jest nowy?
+
+Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pytań. Ten artykuł ma dać podstawy, a nie zamykać temat w jednej definicji.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>30</wp:post_id>
+            <wp:post_name>jak-zmieniaja-sie-gusta-polakow-jesli-chodzi-o-wino</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak zmieniają się gusta Polaków jeś... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[polskie wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak zmieniają się gusta Polaków jeś... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[polskie wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Małe winnice w Polsce - jak działają i czym różnią się od dużych producentów</title>
+            <link>https://example.com/male-winnice-w-polsce-jak-dzialaja-i-czym-roznia-sie-od-duzych-producentow/</link>
+            <pubDate>pon., 27 lip 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=31</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł pomaga zrozumieć o polskim winie?
+
+Tekst pokazuje, że polskie wino nie jest jedną prostą kategorią. Ważne są klimat, skala produkcji, decyzje winiarzy i to, jak szybko zmienia się jakość oraz styl win.
+
+### Dlaczego warto znać ten kontekst przed degustacją?
+
+Dzięki temu łatwiej rozumieć, skąd biorą się różnice między winami z poszczególnych winnic. Uczestnik nie musi znać terminologii, ale zyskuje punkt zaczepienia do rozmowy i porównywania kieliszków.
+
+### Czy ta wiedza przydaje się podczas wydarzenia w Jaśle?
+
+Tak, bo wydarzenie Międzynarodowe Dni Wina w Jaśle pozwala zobaczyć ten temat w praktyce, nie tylko w opisie. Można porównać style, zapytać producentów o ich decyzje i sprawdzić, jak teoria przekłada się na konkretne wino.
+
+### Od czego zacząć, jeśli temat jest nowy?
+
+Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pytań. Ten artykuł ma dać podstawy, a nie zamykać temat w jednej definicji.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>31</wp:post_id>
+            <wp:post_name>male-winnice-w-polsce-jak-dzialaja-i-czym-roznia-sie-od-duzych-producentow</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Małe winnice w Polsce - jak działaj... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Małe winnice w Polsce - jak działaj... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Odmiany winorośli uprawiane w okolicach Jasła - co warto wiedzieć jako uczestnik wydarzenia</title>
+            <link>https://example.com/odmiany-winorosli-uprawiane-w-okolicach-jasla-co-warto-wiedziec-jako-uczestnik-wydarzenia/</link>
+            <pubDate>śr., 22 lip 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=32</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł pomaga zrozumieć o polskim winie?
+
+Tekst pokazuje, że polskie wino nie jest jedną prostą kategorią. Ważne są klimat, skala produkcji, decyzje winiarzy i to, jak szybko zmienia się jakość oraz styl win.
+
+### Dlaczego warto znać ten kontekst przed degustacją?
+
+Dzięki temu łatwiej rozumieć, skąd biorą się różnice między winami z poszczególnych winnic. Uczestnik nie musi znać terminologii, ale zyskuje punkt zaczepienia do rozmowy i porównywania kieliszków.
+
+### Czy ta wiedza przydaje się podczas wydarzenia w Jaśle?
+
+Tak, bo wydarzenie Międzynarodowe Dni Wina w Jaśle pozwala zobaczyć ten temat w praktyce, nie tylko w opisie. Można porównać style, zapytać producentów o ich decyzje i sprawdzić, jak teoria przekłada się na konkretne wino.
+
+### Od czego zacząć, jeśli temat jest nowy?
+
+Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pytań. Ten artykuł ma dać podstawy, a nie zamykać temat w jednej definicji.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>32</wp:post_id>
+            <wp:post_name>odmiany-winorosli-uprawiane-w-okolicach-jasla-co-warto-wiedziec-jako-uczestnik-wydarzenia</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <category domain="post_tag" nicename="degustacja">degustacja</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Odmiany winorośli uprawiane w okoli... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[polskie wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Odmiany winorośli uprawiane w okoli... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[polskie wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Polskie wino - co warto wiedzieć na początek</title>
+            <link>https://example.com/polskie-wino-co-warto-wiedziec-na-poczatek/</link>
+            <pubDate>pt., 31 lip 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=33</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł pomaga zrozumieć o polskim winie?
+
+Tekst pokazuje, że polskie wino nie jest jedną prostą kategorią. Ważne są klimat, skala produkcji, decyzje winiarzy i to, jak szybko zmienia się jakość oraz styl win.
+
+### Dlaczego warto znać ten kontekst przed degustacją?
+
+Dzięki temu łatwiej rozumieć, skąd biorą się różnice między winami z poszczególnych winnic. Uczestnik nie musi znać terminologii, ale zyskuje punkt zaczepienia do rozmowy i porównywania kieliszków.
+
+### Czy ta wiedza przydaje się podczas wydarzenia w Jaśle?
+
+Tak, bo wydarzenie Międzynarodowe Dni Wina w Jaśle pozwala zobaczyć ten temat w praktyce, nie tylko w opisie. Można porównać style, zapytać producentów o ich decyzje i sprawdzić, jak teoria przekłada się na konkretne wino.
+
+### Od czego zacząć, jeśli temat jest nowy?
+
+Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pytań. Ten artykuł ma dać podstawy, a nie zamykać temat w jednej definicji.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>33</wp:post_id>
+            <wp:post_name>polskie-wino-co-warto-wiedziec-na-poczatek</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Polskie wino - co warto wiedzieć na... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[polskie wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Polskie wino - co warto wiedzieć na... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[polskie wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Rocznik ma znaczenie - jak pogoda wpływa na wina z regionu</title>
+            <link>https://example.com/rocznik-ma-znaczenie-jak-pogoda-wplywa-na-wina-z-regionu/</link>
+            <pubDate>pon., 03 sie 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=34</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co ten artykuł pomaga zrozumieć o polskim winie?
+
+Tekst pokazuje, że polskie wino nie jest jedną prostą kategorią. Ważne są klimat, skala produkcji, decyzje winiarzy i to, jak szybko zmienia się jakość oraz styl win.
+
+### Dlaczego warto znać ten kontekst przed degustacją?
+
+Dzięki temu łatwiej rozumieć, skąd biorą się różnice między winami z poszczególnych winnic. Uczestnik nie musi znać terminologii, ale zyskuje punkt zaczepienia do rozmowy i porównywania kieliszków.
+
+### Czy ta wiedza przydaje się podczas wydarzenia w Jaśle?
+
+Tak, bo wydarzenie Międzynarodowe Dni Wina w Jaśle pozwala zobaczyć ten temat w praktyce, nie tylko w opisie. Można porównać style, zapytać producentów o ich decyzje i sprawdzić, jak teoria przekłada się na konkretne wino.
+
+### Od czego zacząć, jeśli temat jest nowy?
+
+Najlepiej zacząć od prostego porównania kilku win i spokojnego zadawania pytań. Ten artykuł ma dać podstawy, a nie zamykać temat w jednej definicji.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>34</wp:post_id>
+            <wp:post_name>rocznik-ma-znaczenie-jak-pogoda-wplywa-na-wina-z-regionu</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Rocznik ma znaczenie - jak pogoda w... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Rocznik ma znaczenie - jak pogoda w... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Czy trzeba znać się na winie, żeby przyjść na Międzynarodowych Dniach Wina w Jaśle</title>
+            <link>https://example.com/czy-trzeba-znac-sie-na-winie-zeby-przyjsc-na-miedzynarodowych-dniach-wina-w-jasle/</link>
+            <pubDate>śr., 29 lip 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=35</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czy ten tekst jest dla osób bez doświadczenia w degustacji?
+
+Tak, tekst zakłada, że uczestnik może przyjść bez specjalistycznej wiedzy. Ma pomóc wejść w wydarzenie spokojnie i bez poczucia, że trzeba coś udawać.
+
+### Co warto zrobić przed przyjściem na degustację?
+
+Wystarczy nastawić się na próbowanie, porównywanie i rozmowę. Dobrze jest mieć kilka prostych pytań, ale nie trzeba znać nazw szczepów ani profesjonalnego słownika.
+
+### Jak wykorzystać te wskazówki na miejscu?
+
+Najlepiej potraktować je jako pomoc w poruszaniu się między stoiskami i w rozmowie z winiarzami. Podczas wydarzenia Międzynarodowe Dni Wina w Jaśle najwięcej daje bezpośredni kontakt z producentem i uważne sprawdzanie własnych wrażeń.
+
+### Czy można zadawać podstawowe pytania?
+
+Tak, podstawowe pytania są często najlepszym początkiem rozmowy. Winiarz może wtedy wyjaśnić styl wina, rocznik, odmianę i decyzje, których nie widać na etykiecie.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>35</wp:post_id>
+            <wp:post_name>czy-trzeba-znac-sie-na-winie-zeby-przyjsc-na-miedzynarodowych-dniach-wina-w-jasle</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Czy trzeba znać się na winie, żeby ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Czy trzeba znać się na winie, żeby ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jak czytać etykiety win i co naprawdę z nich wynika</title>
+            <link>https://example.com/jak-czytac-etykiety-win-i-co-naprawde-z-nich-wynika/</link>
+            <pubDate>pt., 07 sie 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=36</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czy ten tekst jest dla osób bez doświadczenia w degustacji?
+
+Tak, tekst zakłada, że uczestnik może przyjść bez specjalistycznej wiedzy. Ma pomóc wejść w wydarzenie spokojnie i bez poczucia, że trzeba coś udawać.
+
+### Co warto zrobić przed przyjściem na degustację?
+
+Wystarczy nastawić się na próbowanie, porównywanie i rozmowę. Dobrze jest mieć kilka prostych pytań, ale nie trzeba znać nazw szczepów ani profesjonalnego słownika.
+
+### Jak wykorzystać te wskazówki na miejscu?
+
+Najlepiej potraktować je jako pomoc w poruszaniu się między stoiskami i w rozmowie z winiarzami. Podczas wydarzenia Międzynarodowe Dni Wina w Jaśle najwięcej daje bezpośredni kontakt z producentem i uważne sprawdzanie własnych wrażeń.
+
+### Czy można zadawać podstawowe pytania?
+
+Tak, podstawowe pytania są często najlepszym początkiem rozmowy. Winiarz może wtedy wyjaśnić styl wina, rocznik, odmianę i decyzje, których nie widać na etykiecie.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>36</wp:post_id>
+            <wp:post_name>jak-czytac-etykiety-win-i-co-naprawde-z-nich-wynika</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak czytać etykiety win i co napraw... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak czytać etykiety win i co napraw... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jak odnaleźć się na degustacji, jeśli robisz to pierwszy raz</title>
+            <link>https://example.com/jak-odnalezc-sie-na-degustacji-jesli-robisz-to-pierwszy-raz/</link>
+            <pubDate>pon., 10 sie 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=37</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czy ten tekst jest dla osób bez doświadczenia w degustacji?
+
+Tak, tekst zakłada, że uczestnik może przyjść bez specjalistycznej wiedzy. Ma pomóc wejść w wydarzenie spokojnie i bez poczucia, że trzeba coś udawać.
+
+### Co warto zrobić przed przyjściem na degustację?
+
+Wystarczy nastawić się na próbowanie, porównywanie i rozmowę. Dobrze jest mieć kilka prostych pytań, ale nie trzeba znać nazw szczepów ani profesjonalnego słownika.
+
+### Jak wykorzystać te wskazówki na miejscu?
+
+Najlepiej potraktować je jako pomoc w poruszaniu się między stoiskami i w rozmowie z winiarzami. Podczas wydarzenia Międzynarodowe Dni Wina w Jaśle najwięcej daje bezpośredni kontakt z producentem i uważne sprawdzanie własnych wrażeń.
+
+### Czy można zadawać podstawowe pytania?
+
+Tak, podstawowe pytania są często najlepszym początkiem rozmowy. Winiarz może wtedy wyjaśnić styl wina, rocznik, odmianę i decyzje, których nie widać na etykiecie.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>37</wp:post_id>
+            <wp:post_name>jak-odnalezc-sie-na-degustacji-jesli-robisz-to-pierwszy-raz</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <category domain="post_tag" nicename="degustacja">degustacja</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak odnaleźć się na degustacji, jeś... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak odnaleźć się na degustacji, jeś... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jak przygotować się do wydarzenia winiarskiego, żeby wynieść z niego więcej niż tylko degustację</title>
+            <link>https://example.com/jak-przygotowac-sie-do-wydarzenia-winiarskiego-zeby-wyniesc-z-niego-wiecej-niz-tylko-degustacje/</link>
+            <pubDate>śr., 05 sie 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=38</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czy ten tekst jest dla osób bez doświadczenia w degustacji?
+
+Tak, tekst zakłada, że uczestnik może przyjść bez specjalistycznej wiedzy. Ma pomóc wejść w wydarzenie spokojnie i bez poczucia, że trzeba coś udawać.
+
+### Co warto zrobić przed przyjściem na degustację?
+
+Wystarczy nastawić się na próbowanie, porównywanie i rozmowę. Dobrze jest mieć kilka prostych pytań, ale nie trzeba znać nazw szczepów ani profesjonalnego słownika.
+
+### Jak wykorzystać te wskazówki na miejscu?
+
+Najlepiej potraktować je jako pomoc w poruszaniu się między stoiskami i w rozmowie z winiarzami. Podczas wydarzenia Międzynarodowe Dni Wina w Jaśle najwięcej daje bezpośredni kontakt z producentem i uważne sprawdzanie własnych wrażeń.
+
+### Czy można zadawać podstawowe pytania?
+
+Tak, podstawowe pytania są często najlepszym początkiem rozmowy. Winiarz może wtedy wyjaśnić styl wina, rocznik, odmianę i decyzje, których nie widać na etykiecie.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>38</wp:post_id>
+            <wp:post_name>jak-przygotowac-sie-do-wydarzenia-winiarskiego-zeby-wyniesc-z-niego-wiecej-niz-tylko-degustacje</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <category domain="post_tag" nicename="degustacja">degustacja</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak przygotować się do wydarzenia w... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak przygotować się do wydarzenia w... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Jak rozmawiać z winiarzem - o co warto zapytać podczas wydarzenia</title>
+            <link>https://example.com/jak-rozmawiac-z-winiarzem-o-co-warto-zapytac-podczas-wydarzenia/</link>
+            <pubDate>pt., 14 sie 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=39</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czy ten tekst jest dla osób bez doświadczenia w degustacji?
+
+Tak, tekst zakłada, że uczestnik może przyjść bez specjalistycznej wiedzy. Ma pomóc wejść w wydarzenie spokojnie i bez poczucia, że trzeba coś udawać.
+
+### Co warto zrobić przed przyjściem na degustację?
+
+Wystarczy nastawić się na próbowanie, porównywanie i rozmowę. Dobrze jest mieć kilka prostych pytań, ale nie trzeba znać nazw szczepów ani profesjonalnego słownika.
+
+### Jak wykorzystać te wskazówki na miejscu?
+
+Najlepiej potraktować je jako pomoc w poruszaniu się między stoiskami i w rozmowie z winiarzami. Podczas wydarzenia Międzynarodowe Dni Wina w Jaśle najwięcej daje bezpośredni kontakt z producentem i uważne sprawdzanie własnych wrażeń.
+
+### Czy można zadawać podstawowe pytania?
+
+Tak, podstawowe pytania są często najlepszym początkiem rozmowy. Winiarz może wtedy wyjaśnić styl wina, rocznik, odmianę i decyzje, których nie widać na etykiecie.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>39</wp:post_id>
+            <wp:post_name>jak-rozmawiac-z-winiarzem-o-co-warto-zapytac-podczas-wydarzenia</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak rozmawiać z winiarzem - o co wa... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Jak rozmawiać z winiarzem - o co wa... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Międzynarodowe Dni Wina w Jaśle oczami uczestnika</title>
+            <link>https://example.com/miedzynarodowe-dni-wina-w-jasle-oczami-uczestnika/</link>
+            <pubDate>pon., 17 sie 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=40</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czy ten tekst jest dla osób bez doświadczenia w degustacji?
+
+Tak, tekst zakłada, że uczestnik może przyjść bez specjalistycznej wiedzy. Ma pomóc wejść w wydarzenie spokojnie i bez poczucia, że trzeba coś udawać.
+
+### Co warto zrobić przed przyjściem na degustację?
+
+Wystarczy nastawić się na próbowanie, porównywanie i rozmowę. Dobrze jest mieć kilka prostych pytań, ale nie trzeba znać nazw szczepów ani profesjonalnego słownika.
+
+### Jak wykorzystać te wskazówki na miejscu?
+
+Najlepiej potraktować je jako pomoc w poruszaniu się między stoiskami i w rozmowie z winiarzami. Podczas wydarzenia Międzynarodowe Dni Wina w Jaśle najwięcej daje bezpośredni kontakt z producentem i uważne sprawdzanie własnych wrażeń.
+
+### Czy można zadawać podstawowe pytania?
+
+Tak, podstawowe pytania są często najlepszym początkiem rozmowy. Winiarz może wtedy wyjaśnić styl wina, rocznik, odmianę i decyzje, których nie widać na etykiecie.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>40</wp:post_id>
+            <wp:post_name>miedzynarodowe-dni-wina-w-jasle-oczami-uczestnika</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <category domain="post_tag" nicename="degustacja">degustacja</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Międzynarodowe Dni Wina w Jaśle ocz... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Międzynarodowe Dni Wina w Jaśle ocz... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Najczęstsze błędy podczas degustacji - i dlaczego nie trzeba się nimi przejmować</title>
+            <link>https://example.com/najczestsze-bledy-podczas-degustacji-i-dlaczego-nie-trzeba-sie-nimi-przejmowac/</link>
+            <pubDate>śr., 12 sie 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=41</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czy ten tekst jest dla osób bez doświadczenia w degustacji?
+
+Tak, tekst zakłada, że uczestnik może przyjść bez specjalistycznej wiedzy. Ma pomóc wejść w wydarzenie spokojnie i bez poczucia, że trzeba coś udawać.
+
+### Co warto zrobić przed przyjściem na degustację?
+
+Wystarczy nastawić się na próbowanie, porównywanie i rozmowę. Dobrze jest mieć kilka prostych pytań, ale nie trzeba znać nazw szczepów ani profesjonalnego słownika.
+
+### Jak wykorzystać te wskazówki na miejscu?
+
+Najlepiej potraktować je jako pomoc w poruszaniu się między stoiskami i w rozmowie z winiarzami. Podczas wydarzenia Międzynarodowe Dni Wina w Jaśle najwięcej daje bezpośredni kontakt z producentem i uważne sprawdzanie własnych wrażeń.
+
+### Czy można zadawać podstawowe pytania?
+
+Tak, podstawowe pytania są często najlepszym początkiem rozmowy. Winiarz może wtedy wyjaśnić styl wina, rocznik, odmianę i decyzje, których nie widać na etykiecie.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>41</wp:post_id>
+            <wp:post_name>najczestsze-bledy-podczas-degustacji-i-dlaczego-nie-trzeba-sie-nimi-przejmowac</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <category domain="post_tag" nicename="degustacja">degustacja</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Najczęstsze błędy podczas degustacj... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Najczęstsze błędy podczas degustacj... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Nie tylko degustacja - o spotkaniach i rozmowach podczas wydarzenia</title>
+            <link>https://example.com/nie-tylko-degustacja-o-spotkaniach-i-rozmowach-podczas-wydarzenia/</link>
+            <pubDate>pt., 21 sie 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=42</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czy ten tekst jest dla osób bez doświadczenia w degustacji?
+
+Tak, tekst zakłada, że uczestnik może przyjść bez specjalistycznej wiedzy. Ma pomóc wejść w wydarzenie spokojnie i bez poczucia, że trzeba coś udawać.
+
+### Co warto zrobić przed przyjściem na degustację?
+
+Wystarczy nastawić się na próbowanie, porównywanie i rozmowę. Dobrze jest mieć kilka prostych pytań, ale nie trzeba znać nazw szczepów ani profesjonalnego słownika.
+
+### Jak wykorzystać te wskazówki na miejscu?
+
+Najlepiej potraktować je jako pomoc w poruszaniu się między stoiskami i w rozmowie z winiarzami. Podczas wydarzenia Międzynarodowe Dni Wina w Jaśle najwięcej daje bezpośredni kontakt z producentem i uważne sprawdzanie własnych wrażeń.
+
+### Czy można zadawać podstawowe pytania?
+
+Tak, podstawowe pytania są często najlepszym początkiem rozmowy. Winiarz może wtedy wyjaśnić styl wina, rocznik, odmianę i decyzje, których nie widać na etykiecie.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>42</wp:post_id>
+            <wp:post_name>nie-tylko-degustacja-o-spotkaniach-i-rozmowach-podczas-wydarzenia</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <category domain="post_tag" nicename="degustacja">degustacja</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Nie tylko degustacja - o spotkaniac... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Nie tylko degustacja - o spotkaniac... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Pierwszy raz na Międzynarodowych Dniach Wina w Jaśle - co warto wiedzieć przed przyjazdem</title>
+            <link>https://example.com/pierwszy-raz-na-miedzynarodowych-dniach-wina-w-jasle-co-warto-wiedziec-przed-przyjazdem/</link>
+            <pubDate>pon., 24 sie 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=43</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Czy ten tekst jest dla osób bez doświadczenia w degustacji?
+
+Tak, tekst zakłada, że uczestnik może przyjść bez specjalistycznej wiedzy. Ma pomóc wejść w wydarzenie spokojnie i bez poczucia, że trzeba coś udawać.
+
+### Co warto zrobić przed przyjściem na degustację?
+
+Wystarczy nastawić się na próbowanie, porównywanie i rozmowę. Dobrze jest mieć kilka prostych pytań, ale nie trzeba znać nazw szczepów ani profesjonalnego słownika.
+
+### Jak wykorzystać te wskazówki na miejscu?
+
+Najlepiej potraktować je jako pomoc w poruszaniu się między stoiskami i w rozmowie z winiarzami. Podczas wydarzenia Międzynarodowe Dni Wina w Jaśle najwięcej daje bezpośredni kontakt z producentem i uważne sprawdzanie własnych wrażeń.
+
+### Czy można zadawać podstawowe pytania?
+
+Tak, podstawowe pytania są często najlepszym początkiem rozmowy. Winiarz może wtedy wyjaśnić styl wina, rocznik, odmianę i decyzje, których nie widać na etykiecie.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>43</wp:post_id>
+            <wp:post_name>pierwszy-raz-na-miedzynarodowych-dniach-wina-w-jasle-co-warto-wiedziec-przed-przyjazdem</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="uczestnik i degustacja">Uczestnik i degustacja</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Pierwszy raz na Międzynarodowych Dn... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Pierwszy raz na Międzynarodowych Dn... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Czym naprawdę są Międzynarodowe Dni Wina w Jaśle</title>
+            <link>https://example.com/czym-naprawde-sa-miedzynarodowe-dni-wina-w-jasle/</link>
+            <pubDate>śr., 19 sie 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=44</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co wyróżnia Międzynarodowe Dni Wina w Jaśle?
+
+Wydarzenie zbiera w jednym miejscu winiarzy, uczestników i kontekst regionu, który od lat buduje swoją winiarską tożsamość. Najważniejsze jest pokazanie, że to nie tylko degustacja, ale także spotkanie i przegląd polskiego winiarstwa.
+
+### Czy wydarzenie jest tylko dla osób dobrze znających wino?
+
+Nie, Międzynarodowe Dni Wina w Jaśle są dostępne także dla osób, które dopiero zaczynają. Można przyjść z ciekawości, zadawać proste pytania i poznawać wina przez bezpośrednie doświadczenie.
+
+### Co można zrozumieć dzięki temu tekstowi przed przyjazdem?
+
+Tekst pomaga uporządkować oczekiwania wobec wydarzenia. Pokazuje, czego szukać na miejscu, dlaczego rozmowy z winiarzami są ważne i jak patrzeć na różnorodność prezentowanych win.
+
+### Dlaczego kontekst Jasła jest tu istotny?
+
+Jasło nie jest przypadkową lokalizacją, tylko miejscem mocno związanym z rozwojem winiarstwa w regionie. Dzięki temu wydarzenie ma lokalne zakorzenienie, a nie jest jedynie zbiorem stoisk degustacyjnych.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>44</wp:post_id>
+            <wp:post_name>czym-naprawde-sa-miedzynarodowe-dni-wina-w-jasle</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="wydarzenie">Wydarzenie</category>
+            <category domain="post_tag" nicename="wydarzenie">Wydarzenie</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Czym naprawdę są Międzynarodowe Dni... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Czym naprawdę są Międzynarodowe Dni... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Międzynarodowe Dni Wina w Jaśle jako przekrój polskiego winiarstwa - czego można się spodziewać</title>
+            <link>https://example.com/miedzynarodowe-dni-wina-w-jasle-jako-przekroj-polskiego-winiarstwa-czego-mozna-sie-spodziewac/</link>
+            <pubDate>pt., 28 sie 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=45</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co wyróżnia Międzynarodowe Dni Wina w Jaśle?
+
+Wydarzenie zbiera w jednym miejscu winiarzy, uczestników i kontekst regionu, który od lat buduje swoją winiarską tożsamość. Najważniejsze jest pokazanie, że to nie tylko degustacja, ale także spotkanie i przegląd polskiego winiarstwa.
+
+### Czy wydarzenie jest tylko dla osób dobrze znających wino?
+
+Nie, Międzynarodowe Dni Wina w Jaśle są dostępne także dla osób, które dopiero zaczynają. Można przyjść z ciekawości, zadawać proste pytania i poznawać wina przez bezpośrednie doświadczenie.
+
+### Co można zrozumieć dzięki temu tekstowi przed przyjazdem?
+
+Tekst pomaga uporządkować oczekiwania wobec wydarzenia. Pokazuje, czego szukać na miejscu, dlaczego rozmowy z winiarzami są ważne i jak patrzeć na różnorodność prezentowanych win.
+
+### Dlaczego kontekst Jasła jest tu istotny?
+
+Jasło nie jest przypadkową lokalizacją, tylko miejscem mocno związanym z rozwojem winiarstwa w regionie. Dzięki temu wydarzenie ma lokalne zakorzenienie, a nie jest jedynie zbiorem stoisk degustacyjnych.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>45</wp:post_id>
+            <wp:post_name>miedzynarodowe-dni-wina-w-jasle-jako-przekroj-polskiego-winiarstwa-czego-mozna-sie-spodziewac</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="wydarzenie">Wydarzenie</category>
+            <category domain="post_tag" nicename="wydarzenie">Wydarzenie</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Międzynarodowe Dni Wina w Jaśle jak... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Międzynarodowe Dni Wina w Jaśle jak... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Od winnicy do wydarzenia - skąd bierze się to doświadczenie</title>
+            <link>https://example.com/od-winnicy-do-wydarzenia-skad-bierze-sie-to-doswiadczenie/</link>
+            <pubDate>pon., 31 sie 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=46</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co wyróżnia Międzynarodowe Dni Wina w Jaśle?
+
+Wydarzenie zbiera w jednym miejscu winiarzy, uczestników i kontekst regionu, który od lat buduje swoją winiarską tożsamość. Najważniejsze jest pokazanie, że to nie tylko degustacja, ale także spotkanie i przegląd polskiego winiarstwa.
+
+### Czy wydarzenie jest tylko dla osób dobrze znających wino?
+
+Nie, Międzynarodowe Dni Wina w Jaśle są dostępne także dla osób, które dopiero zaczynają. Można przyjść z ciekawości, zadawać proste pytania i poznawać wina przez bezpośrednie doświadczenie.
+
+### Co można zrozumieć dzięki temu tekstowi przed przyjazdem?
+
+Tekst pomaga uporządkować oczekiwania wobec wydarzenia. Pokazuje, czego szukać na miejscu, dlaczego rozmowy z winiarzami są ważne i jak patrzeć na różnorodność prezentowanych win.
+
+### Dlaczego kontekst Jasła jest tu istotny?
+
+Jasło nie jest przypadkową lokalizacją, tylko miejscem mocno związanym z rozwojem winiarstwa w regionie. Dzięki temu wydarzenie ma lokalne zakorzenienie, a nie jest jedynie zbiorem stoisk degustacyjnych.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>46</wp:post_id>
+            <wp:post_name>od-winnicy-do-wydarzenia-skad-bierze-sie-to-doswiadczenie</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="wydarzenie">Wydarzenie</category>
+            <category domain="post_tag" nicename="wydarzenie">Wydarzenie</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Od winnicy do wydarzenia - skąd bie... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Od winnicy do wydarzenia - skąd bie... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+        <item>
+            <title>Polskie winnice w jednym miejscu - co wyróżnia Międzynarodowe Dni Wina w Jaśle na tle innych wydarzeń</title>
+            <link>https://example.com/polskie-winnice-w-jednym-miejscu-co-wyroznia-miedzynarodowe-dni-wina-w-jasle-na-tle-innych-wydarzen/</link>
+            <pubDate>śr., 26 sie 2026 00:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Admin]]></dc:creator>
+            <guid isPermaLink="false">https://example.com/?p=47</guid>
+            <description></description>
+            <content:encoded><![CDATA[## FAQ
+
+### Co wyróżnia Międzynarodowe Dni Wina w Jaśle?
+
+Wydarzenie zbiera w jednym miejscu winiarzy, uczestników i kontekst regionu, który od lat buduje swoją winiarską tożsamość. Najważniejsze jest pokazanie, że to nie tylko degustacja, ale także spotkanie i przegląd polskiego winiarstwa.
+
+### Czy wydarzenie jest tylko dla osób dobrze znających wino?
+
+Nie, Międzynarodowe Dni Wina w Jaśle są dostępne także dla osób, które dopiero zaczynają. Można przyjść z ciekawości, zadawać proste pytania i poznawać wina przez bezpośrednie doświadczenie.
+
+### Co można zrozumieć dzięki temu tekstowi przed przyjazdem?
+
+Tekst pomaga uporządkować oczekiwania wobec wydarzenia. Pokazuje, czego szukać na miejscu, dlaczego rozmowy z winiarzami są ważne i jak patrzeć na różnorodność prezentowanych win.
+
+### Dlaczego kontekst Jasła jest tu istotny?
+
+Jasło nie jest przypadkową lokalizacją, tylko miejscem mocno związanym z rozwojem winiarstwa w regionie. Dzięki temu wydarzenie ma lokalne zakorzenienie, a nie jest jedynie zbiorem stoisk degustacyjnych.
+
+## Uwagi do tego materiału
+
+Jeśli chcesz zgłosić korektę merytoryczną, doprecyzowanie albo sugestię zmiany, wpisz ją w formularzu recenzji.]]></content:encoded>
+            <excerpt:encoded><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026.]]></excerpt:encoded>
+            <wp:post_id>47</wp:post_id>
+            <wp:post_name>polskie-winnice-w-jednym-miejscu-co-wyroznia-miedzynarodowe-dni-wina-w-jasle-na-tle-innych-wydarzen</wp:post_name>
+            <wp:post_parent>0</wp:post_parent>
+            <wp:menu_order>0</wp:menu_order>
+            <wp:post_type>post</wp:post_type>
+            <wp:post_password></wp:post_password>
+            <wp:is_sticky>0</wp:is_sticky>
+            <wp:status>draft</wp:status>
+            <category domain="category" nicename="wydarzenie">Wydarzenie</category>
+            <category domain="post_tag" nicename="wydarzenie">Wydarzenie</category>
+            <category domain="post_tag" nicename="wino">wino</category>
+            <category domain="post_tag" nicename="mdw">MDW</category>
+            <category domain="post_tag" nicename="polskie winiarstwo">Polskie winiarstwo</category>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Polskie winnice w jednym miejscu - ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_title</wp:meta_key>
+                <wp:meta_value><![CDATA[Polskie winnice w jednym miejscu - ... - Miedzynarodowe Dni ]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_description</wp:meta_key>
+                <wp:meta_value><![CDATA[Roboczy artykuł do recenzji merytorycznej w ramach materiałów Międzynarodowych Dni Wina w Jaśle 2026. Artykul z Miedzynarodowych Dni Wina.]]></wp:meta_value>
+            </wp:postmeta>
+            <wp:postmeta>
+                <wp:meta_key>rank_math_focus_keyword</wp:meta_key>
+                <wp:meta_value><![CDATA[wino]]></wp:meta_value>
+            </wp:postmeta>
+        </item>
+    </channel>
+</rss>
